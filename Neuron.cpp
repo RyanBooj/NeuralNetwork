@@ -17,7 +17,7 @@ Neuron::Neuron(unsigned num_outputs, unsigned my_index)
     }
 }
 
-void Neuron::feedforward(Layer &prev_layer)
+void Neuron::feedforward(const Layer &prev_layer)
 {
     // Sum the values of all the previous layers
     double sum = 0.0;
@@ -52,7 +52,7 @@ void Neuron::calc_gradients(double target_val)
     _gradient = delta * Neuron::_deriv_transfer_fn(_output);
 }
 
-void Neuron::calc_hidden_gradients(Layer &next_layer)
+void Neuron::calc_hidden_gradients(const Layer &next_layer)
 {
     // There is no target value to compare to here
     // Look at the sum of the derivative of the weights of the next layer
@@ -62,7 +62,7 @@ void Neuron::calc_hidden_gradients(Layer &next_layer)
 
 // This function will calculate the sum of the derivatives of the weights of the given layer
 // For use in calculating the hidden gradients
-double Neuron::sum_dow(Layer &next_layer)
+double Neuron::sum_dow(const Layer &next_layer)
 {
     double sum = 0.0;
     for (unsigned n = 0; n < next_layer.size() - 1; ++n)
@@ -74,7 +74,6 @@ double Neuron::sum_dow(Layer &next_layer)
 
 void Neuron::update_weights(Layer &prev_layer)
 {
-
     // Remember the weights are stored in the Connection container.
     for (unsigned n = 0; n < prev_layer.size(); ++n)
     {

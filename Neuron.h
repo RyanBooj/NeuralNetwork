@@ -15,8 +15,8 @@ typedef vector<Neuron> Layer;
 // updated last for calculations needed down the line
 
 // TODO: Make this connection struct into a class
-// Neds to construct itself with some value for each weight
-// May want to change the ruction of these initial weights for some reason
+// Needs to construct itself with some value for each weight
+// May want to change the fuction of these initial weights
 struct Connection
 {
     double weight;
@@ -61,14 +61,14 @@ public:
 
     // Setters and getters
     void set_output_value(double val) { _output = val; };
-    double get_output_val(void) { return _output; };
+    double get_output_val(void) const { return _output; };
 
     // Feedforward the values from the previous layers
-    void feedforward(Layer &prev_layer);
+    void feedforward(const Layer &prev_layer);
 
     // Calculate the gradients
     void calc_gradients(double target_val);
-    void calc_hidden_gradients(Layer &next_layer);
-    double sum_dow(Layer &next_layer);
+    void calc_hidden_gradients(const Layer &next_layer);
+    double sum_dow(const Layer &next_layer);
     void update_weights(Layer &prev_layer);
 };

@@ -1,3 +1,7 @@
+/*
+    Inspired from http://www.millermattson.com/dave/?p=54
+*/
+
 #include <vector>
 #include "Neuron.h"
 #include <iostream>
