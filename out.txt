@@ -1,0 +1,8015 @@
+Created a new neuron in layer 0
+Created a new neuron in layer 0
+Created a new neuron in layer 0
+Created a new neuron in layer 1
+Created a new neuron in layer 1
+Created a new neuron in layer 1
+Created a new neuron in layer 1
+Created a new neuron in layer 2
+Created a new neuron in layer 2
+Created a new neuron in layer 2
+Created a new neuron in layer 2
+Created a new neuron in layer 3
+Created a new neuron in layer 3
+Network created.
+Generate random data
+[0, 1]
+Target: 1
+Result: 0.990362
+Recent Error: 0.00963809
+[1, 0]
+Target: 1
+Result: 0.990409
+Recent Error: 0.00959121
+[0, 0]
+Target: 1
+Result: 0.989147
+Recent Error: 0.0108528
+[0, 0]
+Target: 1
+Result: 0.989212
+Recent Error: 0.0107878
+[0, 1]
+Target: 1
+Result: 0.990572
+Recent Error: 0.00942796
+[1, 1]
+Target: 0
+Result: 0.990796
+Recent Error: 0.990796
+[0, 0]
+Target: 1
+Result: 0.982305
+Recent Error: 0.0176946
+[1, 0]
+Target: 1
+Result: 0.983841
+Recent Error: 0.0161587
+[1, 1]
+Target: 0
+Result: 0.98423
+Recent Error: 0.98423
+[0, 1]
+Target: 1
+Result: 0.973467
+Recent Error: 0.026533
+[0, 0]
+Target: 1
+Result: 0.968606
+Recent Error: 0.0313938
+[1, 0]
+Target: 1
+Result: 0.972814
+Recent Error: 0.0271865
+[0, 0]
+Target: 1
+Result: 0.969443
+Recent Error: 0.0305571
+[1, 0]
+Target: 1
+Result: 0.973663
+Recent Error: 0.0263369
+[1, 0]
+Target: 1
+Result: 0.974058
+Recent Error: 0.0259419
+[1, 1]
+Target: 0
+Result: 0.974973
+Recent Error: 0.974973
+[1, 0]
+Target: 1
+Result: 0.958035
+Recent Error: 0.0419652
+[0, 1]
+Target: 1
+Result: 0.956853
+Recent Error: 0.0431469
+[1, 0]
+Target: 1
+Result: 0.957689
+Recent Error: 0.0423111
+[1, 1]
+Target: 0
+Result: 0.959559
+Recent Error: 0.959559
+[1, 1]
+Target: 0
+Result: 0.933915
+Recent Error: 0.933915
+[1, 1]
+Target: 0
+Result: 0.887086
+Recent Error: 0.887086
+[1, 0]
+Target: 1
+Result: 0.805256
+Recent Error: 0.194744
+[1, 0]
+Target: 1
+Result: 0.816838
+Recent Error: 0.183162
+[1, 1]
+Target: 0
+Result: 0.839006
+Recent Error: 0.839006
+[1, 1]
+Target: 0
+Result: 0.746117
+Recent Error: 0.746117
+[1, 1]
+Target: 0
+Result: 0.590723
+Recent Error: 0.590723
+[1, 1]
+Target: 0
+Result: 0.383753
+Recent Error: 0.383753
+[1, 0]
+Target: 1
+Result: 0.181185
+Recent Error: 0.818815
+[0, 0]
+Target: 1
+Result: 0.522812
+Recent Error: 0.477188
+[0, 1]
+Target: 1
+Result: 0.691823
+Recent Error: 0.308177
+[1, 1]
+Target: 0
+Result: 0.760477
+Recent Error: 0.760477
+[0, 1]
+Target: 1
+Result: 0.631612
+Recent Error: 0.368388
+[1, 1]
+Target: 0
+Result: 0.70233
+Recent Error: 0.70233
+[1, 0]
+Target: 1
+Result: 0.551405
+Recent Error: 0.448595
+[0, 0]
+Target: 1
+Result: 0.6343
+Recent Error: 0.3657
+[1, 1]
+Target: 0
+Result: 0.738643
+Recent Error: 0.738643
+[1, 0]
+Target: 1
+Result: 0.602501
+Recent Error: 0.397499
+[1, 1]
+Target: 0
+Result: 0.686305
+Recent Error: 0.686305
+[0, 1]
+Target: 1
+Result: 0.531721
+Recent Error: 0.468279
+[0, 0]
+Target: 1
+Result: 0.625239
+Recent Error: 0.374761
+[0, 0]
+Target: 1
+Result: 0.709002
+Recent Error: 0.290998
+[1, 0]
+Target: 1
+Result: 0.779232
+Recent Error: 0.220768
+[1, 0]
+Target: 1
+Result: 0.810088
+Recent Error: 0.189912
+[0, 1]
+Target: 1
+Result: 0.832193
+Recent Error: 0.167807
+[0, 1]
+Target: 1
+Result: 0.849261
+Recent Error: 0.150739
+[1, 1]
+Target: 0
+Result: 0.865837
+Recent Error: 0.865837
+[0, 1]
+Target: 1
+Result: 0.783243
+Recent Error: 0.216757
+[1, 1]
+Target: 0
+Result: 0.803984
+Recent Error: 0.803984
+[0, 0]
+Target: 1
+Result: 0.667934
+Recent Error: 0.332066
+[0, 0]
+Target: 1
+Result: 0.714586
+Recent Error: 0.285414
+[1, 1]
+Target: 0
+Result: 0.783929
+Recent Error: 0.783929
+[0, 0]
+Target: 1
+Result: 0.642144
+Recent Error: 0.357856
+[0, 1]
+Target: 1
+Result: 0.718863
+Recent Error: 0.281137
+[1, 0]
+Target: 1
+Result: 0.767752
+Recent Error: 0.232248
+[0, 0]
+Target: 1
+Result: 0.783355
+Recent Error: 0.216645
+[0, 1]
+Target: 1
+Result: 0.827049
+Recent Error: 0.172951
+[0, 1]
+Target: 1
+Result: 0.84533
+Recent Error: 0.15467
+[1, 1]
+Target: 0
+Result: 0.86276
+Recent Error: 0.86276
+[1, 1]
+Target: 0
+Result: 0.782706
+Recent Error: 0.782706
+[1, 1]
+Target: 0
+Result: 0.646242
+Recent Error: 0.646242
+[0, 0]
+Target: 1
+Result: 0.43125
+Recent Error: 0.56875
+[1, 1]
+Target: 0
+Result: 0.615265
+Recent Error: 0.615265
+[1, 0]
+Target: 1
+Result: 0.452541
+Recent Error: 0.547459
+[0, 1]
+Target: 1
+Result: 0.615012
+Recent Error: 0.384988
+[0, 0]
+Target: 1
+Result: 0.691316
+Recent Error: 0.308684
+[1, 1]
+Target: 0
+Result: 0.772172
+Recent Error: 0.772172
+[0, 1]
+Target: 1
+Result: 0.648123
+Recent Error: 0.351877
+[0, 0]
+Target: 1
+Result: 0.68626
+Recent Error: 0.31374
+[1, 1]
+Target: 0
+Result: 0.766226
+Recent Error: 0.766226
+[0, 1]
+Target: 1
+Result: 0.639591
+Recent Error: 0.360409
+[1, 1]
+Target: 0
+Result: 0.706587
+Recent Error: 0.706587
+[0, 1]
+Target: 1
+Result: 0.557893
+Recent Error: 0.442107
+[0, 1]
+Target: 1
+Result: 0.658061
+Recent Error: 0.341939
+[1, 0]
+Target: 1
+Result: 0.731929
+Recent Error: 0.268071
+[1, 0]
+Target: 1
+Result: 0.777604
+Recent Error: 0.222396
+[1, 1]
+Target: 0
+Result: 0.812464
+Recent Error: 0.812464
+[0, 0]
+Target: 1
+Result: 0.683542
+Recent Error: 0.316458
+[0, 1]
+Target: 1
+Result: 0.744582
+Recent Error: 0.255418
+[0, 1]
+Target: 1
+Result: 0.783927
+Recent Error: 0.216073
+[0, 1]
+Target: 1
+Result: 0.812577
+Recent Error: 0.187423
+[1, 1]
+Target: 0
+Result: 0.837609
+Recent Error: 0.837609
+[0, 1]
+Target: 1
+Result: 0.741169
+Recent Error: 0.258831
+[1, 0]
+Target: 1
+Result: 0.768008
+Recent Error: 0.231992
+[1, 0]
+Target: 1
+Result: 0.79971
+Recent Error: 0.20029
+[0, 0]
+Target: 1
+Result: 0.807016
+Recent Error: 0.192984
+[1, 1]
+Target: 0
+Result: 0.847522
+Recent Error: 0.847522
+[1, 0]
+Target: 1
+Result: 0.755939
+Recent Error: 0.244061
+[1, 1]
+Target: 0
+Result: 0.783711
+Recent Error: 0.783711
+[1, 0]
+Target: 1
+Result: 0.661064
+Recent Error: 0.338936
+[1, 0]
+Target: 1
+Result: 0.714124
+Recent Error: 0.285876
+[0, 1]
+Target: 1
+Result: 0.763931
+Recent Error: 0.236069
+[0, 0]
+Target: 1
+Result: 0.780185
+Recent Error: 0.219815
+[1, 0]
+Target: 1
+Result: 0.824436
+Recent Error: 0.175564
+[1, 0]
+Target: 1
+Result: 0.843087
+Recent Error: 0.156913
+[1, 1]
+Target: 0
+Result: 0.861328
+Recent Error: 0.861328
+[1, 1]
+Target: 0
+Result: 0.781347
+Recent Error: 0.781347
+[0, 1]
+Target: 1
+Result: 0.640429
+Recent Error: 0.359571
+[0, 1]
+Target: 1
+Result: 0.699951
+Recent Error: 0.300049
+[0, 0]
+Target: 1
+Result: 0.735274
+Recent Error: 0.264726
+[1, 0]
+Target: 1
+Result: 0.79371
+Recent Error: 0.20629
+[0, 1]
+Target: 1
+Result: 0.819954
+Recent Error: 0.180046
+[1, 1]
+Target: 0
+Result: 0.84337
+Recent Error: 0.84337
+[1, 0]
+Target: 1
+Result: 0.749712
+Recent Error: 0.250288
+[0, 0]
+Target: 1
+Result: 0.75549
+Recent Error: 0.24451
+[0, 0]
+Target: 1
+Result: 0.787897
+Recent Error: 0.212103
+[1, 0]
+Target: 1
+Result: 0.829632
+Recent Error: 0.170368
+[1, 1]
+Target: 0
+Result: 0.850992
+Recent Error: 0.850992
+[0, 0]
+Target: 1
+Result: 0.742203
+Recent Error: 0.257797
+[1, 1]
+Target: 0
+Result: 0.789306
+Recent Error: 0.789306
+[0, 1]
+Target: 1
+Result: 0.669785
+Recent Error: 0.330215
+[0, 1]
+Target: 1
+Result: 0.719293
+Recent Error: 0.280707
+[0, 1]
+Target: 1
+Result: 0.766821
+Recent Error: 0.233179
+[1, 0]
+Target: 1
+Result: 0.800025
+Recent Error: 0.199975
+[0, 1]
+Target: 1
+Result: 0.824381
+Recent Error: 0.175619
+[0, 0]
+Target: 1
+Result: 0.826954
+Recent Error: 0.173046
+[1, 0]
+Target: 1
+Result: 0.858155
+Recent Error: 0.141845
+[1, 0]
+Target: 1
+Result: 0.870024
+Recent Error: 0.129976
+[1, 0]
+Target: 1
+Result: 0.879856
+Recent Error: 0.120144
+[1, 0]
+Target: 1
+Result: 0.888204
+Recent Error: 0.111796
+[0, 1]
+Target: 1
+Result: 0.895463
+Recent Error: 0.104537
+[0, 1]
+Target: 1
+Result: 0.901731
+Recent Error: 0.0982688
+[0, 1]
+Target: 1
+Result: 0.907253
+Recent Error: 0.0927473
+[0, 0]
+Target: 1
+Result: 0.901273
+Recent Error: 0.0987273
+[1, 0]
+Target: 1
+Result: 0.916812
+Recent Error: 0.0831878
+[0, 0]
+Target: 1
+Result: 0.910789
+Recent Error: 0.0892106
+[1, 0]
+Target: 1
+Result: 0.924619
+Recent Error: 0.0753805
+[1, 1]
+Target: 0
+Result: 0.930178
+Recent Error: 0.930178
+[1, 0]
+Target: 1
+Result: 0.88433
+Recent Error: 0.11567
+[1, 0]
+Target: 1
+Result: 0.886029
+Recent Error: 0.113971
+[1, 0]
+Target: 1
+Result: 0.892875
+Recent Error: 0.107125
+[0, 0]
+Target: 1
+Result: 0.887581
+Recent Error: 0.112419
+[0, 1]
+Target: 1
+Result: 0.905644
+Recent Error: 0.0943562
+[1, 0]
+Target: 1
+Result: 0.910719
+Recent Error: 0.0892811
+[1, 0]
+Target: 1
+Result: 0.915253
+Recent Error: 0.0847467
+[0, 1]
+Target: 1
+Result: 0.91935
+Recent Error: 0.0806502
+[1, 0]
+Target: 1
+Result: 0.923003
+Recent Error: 0.0769971
+[1, 1]
+Target: 0
+Result: 0.928716
+Recent Error: 0.928716
+[1, 1]
+Target: 0
+Result: 0.885426
+Recent Error: 0.885426
+[0, 0]
+Target: 1
+Result: 0.786671
+Recent Error: 0.213329
+[1, 0]
+Target: 1
+Result: 0.816652
+Recent Error: 0.183348
+[0, 0]
+Target: 1
+Result: 0.819805
+Recent Error: 0.180195
+[0, 0]
+Target: 1
+Result: 0.837537
+Recent Error: 0.162463
+[1, 0]
+Target: 1
+Result: 0.866
+Recent Error: 0.134
+[0, 1]
+Target: 1
+Result: 0.87651
+Recent Error: 0.12349
+[0, 0]
+Target: 1
+Result: 0.872641
+Recent Error: 0.127359
+[1, 0]
+Target: 1
+Result: 0.893407
+Recent Error: 0.106593
+[0, 1]
+Target: 1
+Result: 0.899956
+Recent Error: 0.100044
+[1, 1]
+Target: 0
+Result: 0.908588
+Recent Error: 0.908588
+[1, 0]
+Target: 1
+Result: 0.850039
+Recent Error: 0.149961
+[1, 1]
+Target: 0
+Result: 0.85927
+Recent Error: 0.85927
+[1, 1]
+Target: 0
+Result: 0.777709
+Recent Error: 0.777709
+[1, 0]
+Target: 1
+Result: 0.635939
+Recent Error: 0.364061
+[0, 0]
+Target: 1
+Result: 0.677151
+Recent Error: 0.322849
+[0, 0]
+Target: 1
+Result: 0.735534
+Recent Error: 0.264466
+[1, 1]
+Target: 0
+Result: 0.797677
+Recent Error: 0.797677
+[0, 1]
+Target: 1
+Result: 0.684606
+Recent Error: 0.315394
+[0, 1]
+Target: 1
+Result: 0.72856
+Recent Error: 0.27144
+[1, 1]
+Target: 0
+Result: 0.777536
+Recent Error: 0.777536
+[1, 0]
+Target: 1
+Result: 0.656137
+Recent Error: 0.343863
+[0, 1]
+Target: 1
+Result: 0.71032
+Recent Error: 0.28968
+[0, 1]
+Target: 1
+Result: 0.760661
+Recent Error: 0.239339
+[1, 0]
+Target: 1
+Result: 0.795543
+Recent Error: 0.204457
+[1, 0]
+Target: 1
+Result: 0.820664
+Recent Error: 0.179336
+[0, 0]
+Target: 1
+Result: 0.824461
+Recent Error: 0.175539
+[0, 1]
+Target: 1
+Result: 0.855629
+Recent Error: 0.144371
+[0, 1]
+Target: 1
+Result: 0.867825
+Recent Error: 0.132175
+[0, 1]
+Target: 1
+Result: 0.877914
+Recent Error: 0.122086
+[0, 1]
+Target: 1
+Result: 0.886468
+Recent Error: 0.113532
+[0, 0]
+Target: 1
+Result: 0.881911
+Recent Error: 0.118089
+[1, 1]
+Target: 0
+Result: 0.903876
+Recent Error: 0.903876
+[1, 0]
+Target: 1
+Result: 0.842757
+Recent Error: 0.157243
+[0, 1]
+Target: 1
+Result: 0.848976
+Recent Error: 0.151024
+[1, 0]
+Target: 1
+Result: 0.861296
+Recent Error: 0.138704
+[1, 0]
+Target: 1
+Result: 0.872325
+Recent Error: 0.127675
+[0, 1]
+Target: 1
+Result: 0.881712
+Recent Error: 0.118288
+[1, 0]
+Target: 1
+Result: 0.889676
+Recent Error: 0.110324
+[1, 0]
+Target: 1
+Result: 0.896608
+Recent Error: 0.103392
+[0, 0]
+Target: 1
+Result: 0.891524
+Recent Error: 0.108476
+[0, 0]
+Target: 1
+Result: 0.89776
+Recent Error: 0.10224
+[0, 0]
+Target: 1
+Result: 0.903334
+Recent Error: 0.0966657
+[0, 0]
+Target: 1
+Result: 0.908314
+Recent Error: 0.0916857
+[1, 0]
+Target: 1
+Result: 0.922208
+Recent Error: 0.0777915
+[0, 1]
+Target: 1
+Result: 0.925634
+Recent Error: 0.0743664
+[1, 0]
+Target: 1
+Result: 0.928728
+Recent Error: 0.0712716
+[1, 1]
+Target: 0
+Result: 0.933975
+Recent Error: 0.933975
+[1, 1]
+Target: 0
+Result: 0.894016
+Recent Error: 0.894016
+[1, 1]
+Target: 0
+Result: 0.82321
+Recent Error: 0.82321
+[0, 0]
+Target: 1
+Result: 0.685823
+Recent Error: 0.314177
+[1, 1]
+Target: 0
+Result: 0.74721
+Recent Error: 0.74721
+[0, 1]
+Target: 1
+Result: 0.613253
+Recent Error: 0.386747
+[1, 1]
+Target: 0
+Result: 0.6903
+Recent Error: 0.6903
+[1, 0]
+Target: 1
+Result: 0.540848
+Recent Error: 0.459152
+[1, 0]
+Target: 1
+Result: 0.646679
+Recent Error: 0.353321
+[0, 1]
+Target: 1
+Result: 0.723687
+Recent Error: 0.276313
+[0, 0]
+Target: 1
+Result: 0.753678
+Recent Error: 0.246322
+[1, 0]
+Target: 1
+Result: 0.804053
+Recent Error: 0.195947
+[1, 0]
+Target: 1
+Result: 0.826988
+Recent Error: 0.173012
+[1, 1]
+Target: 0
+Result: 0.849077
+Recent Error: 0.849077
+[0, 0]
+Target: 1
+Result: 0.741858
+Recent Error: 0.258142
+[1, 1]
+Target: 0
+Result: 0.787862
+Recent Error: 0.787862
+[1, 0]
+Target: 1
+Result: 0.669468
+Recent Error: 0.330532
+[0, 0]
+Target: 1
+Result: 0.699848
+Recent Error: 0.300152
+[1, 1]
+Target: 0
+Result: 0.771957
+Recent Error: 0.771957
+[0, 1]
+Target: 1
+Result: 0.649873
+Recent Error: 0.350127
+[0, 0]
+Target: 1
+Result: 0.687814
+Recent Error: 0.312186
+[0, 1]
+Target: 1
+Result: 0.758604
+Recent Error: 0.241396
+[1, 0]
+Target: 1
+Result: 0.793924
+Recent Error: 0.206076
+[1, 0]
+Target: 1
+Result: 0.819161
+Recent Error: 0.180839
+[0, 1]
+Target: 1
+Result: 0.838212
+Recent Error: 0.161788
+[1, 0]
+Target: 1
+Result: 0.853448
+Recent Error: 0.146552
+[0, 0]
+Target: 1
+Result: 0.85256
+Recent Error: 0.14744
+[1, 1]
+Target: 0
+Result: 0.880687
+Recent Error: 0.880687
+[1, 0]
+Target: 1
+Result: 0.807352
+Recent Error: 0.192648
+[0, 1]
+Target: 1
+Result: 0.818761
+Recent Error: 0.181239
+[0, 1]
+Target: 1
+Result: 0.836822
+Recent Error: 0.163178
+[0, 0]
+Target: 1
+Result: 0.838332
+Recent Error: 0.161668
+[1, 1]
+Target: 0
+Result: 0.869701
+Recent Error: 0.869701
+[0, 0]
+Target: 1
+Result: 0.774555
+Recent Error: 0.225445
+[0, 1]
+Target: 1
+Result: 0.806449
+Recent Error: 0.193551
+[1, 0]
+Target: 1
+Result: 0.827387
+Recent Error: 0.172613
+[1, 0]
+Target: 1
+Result: 0.844583
+Recent Error: 0.155417
+[0, 1]
+Target: 1
+Result: 0.858384
+Recent Error: 0.141616
+[0, 1]
+Target: 1
+Result: 0.86984
+Recent Error: 0.13016
+[1, 0]
+Target: 1
+Result: 0.879511
+Recent Error: 0.120489
+[1, 1]
+Target: 0
+Result: 0.891531
+Recent Error: 0.891531
+[0, 1]
+Target: 1
+Result: 0.82391
+Recent Error: 0.17609
+[1, 1]
+Target: 0
+Result: 0.837654
+Recent Error: 0.837654
+[0, 0]
+Target: 1
+Result: 0.724458
+Recent Error: 0.275542
+[1, 0]
+Target: 1
+Result: 0.768638
+Recent Error: 0.231362
+[1, 0]
+Target: 1
+Result: 0.799149
+Recent Error: 0.200851
+[1, 0]
+Target: 1
+Result: 0.822744
+Recent Error: 0.177256
+[0, 0]
+Target: 1
+Result: 0.826879
+Recent Error: 0.173121
+[1, 0]
+Target: 1
+Result: 0.856302
+Recent Error: 0.143698
+[0, 1]
+Target: 1
+Result: 0.868008
+Recent Error: 0.131992
+[1, 0]
+Target: 1
+Result: 0.878026
+Recent Error: 0.121974
+[1, 1]
+Target: 0
+Result: 0.890276
+Recent Error: 0.890276
+[0, 1]
+Target: 1
+Result: 0.822037
+Recent Error: 0.177963
+[0, 0]
+Target: 1
+Result: 0.816792
+Recent Error: 0.183208
+[1, 1]
+Target: 0
+Result: 0.852156
+Recent Error: 0.852156
+[0, 0]
+Target: 1
+Result: 0.748384
+Recent Error: 0.251616
+[0, 0]
+Target: 1
+Result: 0.770343
+Recent Error: 0.229657
+[1, 0]
+Target: 1
+Result: 0.812872
+Recent Error: 0.187128
+[0, 1]
+Target: 1
+Result: 0.833063
+Recent Error: 0.166937
+[0, 1]
+Target: 1
+Result: 0.849102
+Recent Error: 0.150898
+[1, 0]
+Target: 1
+Result: 0.862219
+Recent Error: 0.137781
+[1, 0]
+Target: 1
+Result: 0.872989
+Recent Error: 0.127011
+[0, 1]
+Target: 1
+Result: 0.881948
+Recent Error: 0.118052
+[0, 1]
+Target: 1
+Result: 0.889771
+Recent Error: 0.110229
+[0, 0]
+Target: 1
+Result: 0.885952
+Recent Error: 0.114048
+[0, 1]
+Target: 1
+Result: 0.902916
+Recent Error: 0.0970845
+[0, 1]
+Target: 1
+Result: 0.908197
+Recent Error: 0.0918028
+[0, 0]
+Target: 1
+Result: 0.903426
+Recent Error: 0.0965745
+[1, 0]
+Target: 1
+Result: 0.917426
+Recent Error: 0.0825738
+[0, 0]
+Target: 1
+Result: 0.912377
+Recent Error: 0.0876232
+[0, 0]
+Target: 1
+Result: 0.916366
+Recent Error: 0.0836342
+[0, 0]
+Target: 1
+Result: 0.920023
+Recent Error: 0.0799771
+[1, 1]
+Target: 0
+Result: 0.934006
+Recent Error: 0.934006
+[0, 1]
+Target: 1
+Result: 0.890831
+Recent Error: 0.109169
+[0, 1]
+Target: 1
+Result: 0.891962
+Recent Error: 0.108038
+[0, 1]
+Target: 1
+Result: 0.897899
+Recent Error: 0.102101
+[1, 0]
+Target: 1
+Result: 0.903674
+Recent Error: 0.0963264
+[1, 1]
+Target: 0
+Result: 0.912199
+Recent Error: 0.912199
+[1, 1]
+Target: 0
+Result: 0.861017
+Recent Error: 0.861017
+[0, 1]
+Target: 1
+Result: 0.766439
+Recent Error: 0.233561
+[1, 0]
+Target: 1
+Result: 0.784961
+Recent Error: 0.215039
+[1, 0]
+Target: 1
+Result: 0.810585
+Recent Error: 0.189415
+[1, 1]
+Target: 0
+Result: 0.836332
+Recent Error: 0.836332
+[0, 0]
+Target: 1
+Result: 0.725914
+Recent Error: 0.274086
+[0, 1]
+Target: 1
+Result: 0.768593
+Recent Error: 0.231407
+[0, 0]
+Target: 1
+Result: 0.784169
+Recent Error: 0.215831
+[1, 0]
+Target: 1
+Result: 0.823249
+Recent Error: 0.176751
+[0, 0]
+Target: 1
+Result: 0.828109
+Recent Error: 0.171891
+[1, 1]
+Target: 0
+Result: 0.861026
+Recent Error: 0.861026
+[1, 1]
+Target: 0
+Result: 0.784355
+Recent Error: 0.784355
+[0, 0]
+Target: 1
+Result: 0.634239
+Recent Error: 0.365761
+[0, 1]
+Target: 1
+Result: 0.704182
+Recent Error: 0.295818
+[0, 1]
+Target: 1
+Result: 0.755035
+Recent Error: 0.244965
+[0, 1]
+Target: 1
+Result: 0.790523
+Recent Error: 0.209477
+[0, 0]
+Target: 1
+Result: 0.80223
+Recent Error: 0.19777
+[1, 0]
+Target: 1
+Result: 0.836369
+Recent Error: 0.163631
+[0, 0]
+Target: 1
+Result: 0.839219
+Recent Error: 0.160781
+[0, 1]
+Target: 1
+Result: 0.864753
+Recent Error: 0.135247
+[1, 0]
+Target: 1
+Result: 0.875052
+Recent Error: 0.124948
+[0, 1]
+Target: 1
+Result: 0.883786
+Recent Error: 0.116214
+[1, 0]
+Target: 1
+Result: 0.89127
+Recent Error: 0.10873
+[1, 1]
+Target: 0
+Result: 0.901627
+Recent Error: 0.901627
+[1, 0]
+Target: 1
+Result: 0.840226
+Recent Error: 0.159774
+[1, 0]
+Target: 1
+Result: 0.846502
+Recent Error: 0.153498
+[1, 1]
+Target: 0
+Result: 0.863638
+Recent Error: 0.863638
+[0, 1]
+Target: 1
+Result: 0.782435
+Recent Error: 0.217565
+[1, 0]
+Target: 1
+Result: 0.798429
+Recent Error: 0.201571
+[0, 1]
+Target: 1
+Result: 0.820598
+Recent Error: 0.179402
+[0, 0]
+Target: 1
+Result: 0.826042
+Recent Error: 0.173958
+[0, 0]
+Target: 1
+Result: 0.842088
+Recent Error: 0.157912
+[0, 1]
+Target: 1
+Result: 0.866851
+Recent Error: 0.133149
+[0, 0]
+Target: 1
+Result: 0.865778
+Recent Error: 0.134222
+[1, 0]
+Target: 1
+Result: 0.885719
+Recent Error: 0.114281
+[1, 1]
+Target: 0
+Result: 0.896956
+Recent Error: 0.896956
+[1, 1]
+Target: 0
+Result: 0.8384
+Recent Error: 0.8384
+[0, 0]
+Target: 1
+Result: 0.717299
+Recent Error: 0.282701
+[0, 0]
+Target: 1
+Result: 0.745383
+Recent Error: 0.254617
+[1, 1]
+Target: 0
+Result: 0.798915
+Recent Error: 0.798915
+[0, 1]
+Target: 1
+Result: 0.689841
+Recent Error: 0.310159
+[1, 1]
+Target: 0
+Result: 0.736386
+Recent Error: 0.736386
+[0, 1]
+Target: 1
+Result: 0.603624
+Recent Error: 0.396376
+[0, 1]
+Target: 1
+Result: 0.676132
+Recent Error: 0.323868
+[0, 0]
+Target: 1
+Result: 0.722702
+Recent Error: 0.277298
+[0, 0]
+Target: 1
+Result: 0.765209
+Recent Error: 0.234791
+[0, 0]
+Target: 1
+Result: 0.795315
+Recent Error: 0.204685
+[0, 0]
+Target: 1
+Result: 0.817883
+Recent Error: 0.182117
+[0, 1]
+Target: 1
+Result: 0.847512
+Recent Error: 0.152488
+[0, 1]
+Target: 1
+Result: 0.860627
+Recent Error: 0.139373
+[1, 1]
+Target: 0
+Result: 0.87589
+Recent Error: 0.87589
+[0, 0]
+Target: 1
+Result: 0.788368
+Recent Error: 0.211632
+[1, 1]
+Target: 0
+Result: 0.820155
+Recent Error: 0.820155
+[1, 1]
+Target: 0
+Result: 0.725052
+Recent Error: 0.725052
+[1, 0]
+Target: 1
+Result: 0.568455
+Recent Error: 0.431545
+[0, 1]
+Target: 1
+Result: 0.65453
+Recent Error: 0.34547
+[1, 1]
+Target: 0
+Result: 0.730708
+Recent Error: 0.730708
+[0, 1]
+Target: 1
+Result: 0.600701
+Recent Error: 0.399299
+[1, 0]
+Target: 1
+Result: 0.673834
+Recent Error: 0.326166
+[0, 1]
+Target: 1
+Result: 0.735818
+Recent Error: 0.264182
+[0, 0]
+Target: 1
+Result: 0.763045
+Recent Error: 0.236955
+[1, 0]
+Target: 1
+Result: 0.806169
+Recent Error: 0.193831
+[1, 1]
+Target: 0
+Result: 0.833176
+Recent Error: 0.833176
+[0, 1]
+Target: 1
+Result: 0.739516
+Recent Error: 0.260484
+[0, 0]
+Target: 1
+Result: 0.751215
+Recent Error: 0.248785
+[0, 0]
+Target: 1
+Result: 0.783127
+Recent Error: 0.216873
+[1, 1]
+Target: 0
+Result: 0.826107
+Recent Error: 0.826107
+[0, 0]
+Target: 1
+Result: 0.71579
+Recent Error: 0.28421
+[0, 1]
+Target: 1
+Result: 0.758807
+Recent Error: 0.241193
+[1, 1]
+Target: 0
+Result: 0.796713
+Recent Error: 0.796713
+[0, 1]
+Target: 1
+Result: 0.688523
+Recent Error: 0.311477
+[0, 1]
+Target: 1
+Result: 0.72857
+Recent Error: 0.27143
+[1, 0]
+Target: 1
+Result: 0.769307
+Recent Error: 0.230693
+[1, 0]
+Target: 1
+Result: 0.799702
+Recent Error: 0.200298
+[0, 1]
+Target: 1
+Result: 0.82279
+Recent Error: 0.17721
+[1, 0]
+Target: 1
+Result: 0.839999
+Recent Error: 0.160001
+[0, 0]
+Target: 1
+Result: 0.843303
+Recent Error: 0.156697
+[0, 1]
+Target: 1
+Result: 0.866743
+Recent Error: 0.133257
+[1, 0]
+Target: 1
+Result: 0.876206
+Recent Error: 0.123794
+[0, 0]
+Target: 1
+Result: 0.875011
+Recent Error: 0.124989
+[0, 0]
+Target: 1
+Result: 0.883016
+Recent Error: 0.116984
+[0, 1]
+Target: 1
+Result: 0.899109
+Recent Error: 0.100891
+[1, 0]
+Target: 1
+Result: 0.904379
+Recent Error: 0.0956206
+[0, 1]
+Target: 1
+Result: 0.909576
+Recent Error: 0.0904242
+[0, 1]
+Target: 1
+Result: 0.913991
+Recent Error: 0.0860093
+[0, 0]
+Target: 1
+Result: 0.910055
+Recent Error: 0.0899453
+[1, 0]
+Target: 1
+Result: 0.921557
+Recent Error: 0.0784429
+[1, 0]
+Target: 1
+Result: 0.924884
+Recent Error: 0.0751162
+[0, 0]
+Target: 1
+Result: 0.920932
+Recent Error: 0.0790675
+[0, 0]
+Target: 1
+Result: 0.924102
+Recent Error: 0.0758977
+[0, 1]
+Target: 1
+Result: 0.933805
+Recent Error: 0.0661946
+[0, 0]
+Target: 1
+Result: 0.929585
+Recent Error: 0.0704151
+[1, 0]
+Target: 1
+Result: 0.938298
+Recent Error: 0.0617016
+[1, 0]
+Target: 1
+Result: 0.940351
+Recent Error: 0.059649
+[0, 1]
+Target: 1
+Result: 0.942433
+Recent Error: 0.0575673
+[0, 0]
+Target: 1
+Result: 0.938265
+Recent Error: 0.0617347
+[1, 0]
+Target: 1
+Result: 0.945814
+Recent Error: 0.0541857
+[0, 1]
+Target: 1
+Result: 0.947559
+Recent Error: 0.0524414
+[1, 0]
+Target: 1
+Result: 0.948869
+Recent Error: 0.0511308
+[0, 1]
+Target: 1
+Result: 0.950422
+Recent Error: 0.0495778
+[1, 1]
+Target: 0
+Result: 0.953904
+Recent Error: 0.953904
+[1, 0]
+Target: 1
+Result: 0.923205
+Recent Error: 0.0767951
+[1, 0]
+Target: 1
+Result: 0.922592
+Recent Error: 0.0774083
+[0, 0]
+Target: 1
+Result: 0.918377
+Recent Error: 0.0816229
+[1, 0]
+Target: 1
+Result: 0.928529
+Recent Error: 0.0714711
+[0, 1]
+Target: 1
+Result: 0.931456
+Recent Error: 0.0685441
+[1, 1]
+Target: 0
+Result: 0.936786
+Recent Error: 0.936786
+[1, 0]
+Target: 1
+Result: 0.895957
+Recent Error: 0.104043
+[1, 0]
+Target: 1
+Result: 0.896682
+Recent Error: 0.103318
+[1, 0]
+Target: 1
+Result: 0.90191
+Recent Error: 0.0980897
+[1, 1]
+Target: 0
+Result: 0.910879
+Recent Error: 0.910879
+[0, 0]
+Target: 1
+Result: 0.845262
+Recent Error: 0.154738
+[0, 0]
+Target: 1
+Result: 0.850201
+Recent Error: 0.149799
+[1, 1]
+Target: 0
+Result: 0.875499
+Recent Error: 0.875499
+[0, 0]
+Target: 1
+Result: 0.790448
+Recent Error: 0.209552
+[0, 0]
+Target: 1
+Result: 0.803305
+Recent Error: 0.196695
+[1, 1]
+Target: 0
+Result: 0.838845
+Recent Error: 0.838845
+[0, 0]
+Target: 1
+Result: 0.736476
+Recent Error: 0.263524
+[1, 1]
+Target: 0
+Result: 0.778556
+Recent Error: 0.778556
+[0, 0]
+Target: 1
+Result: 0.651002
+Recent Error: 0.348998
+[1, 1]
+Target: 0
+Result: 0.718055
+Recent Error: 0.718055
+[1, 1]
+Target: 0
+Result: 0.590694
+Recent Error: 0.590694
+[0, 0]
+Target: 1
+Result: 0.398933
+Recent Error: 0.601067
+[1, 1]
+Target: 0
+Result: 0.580389
+Recent Error: 0.580389
+[0, 0]
+Target: 1
+Result: 0.424017
+Recent Error: 0.575983
+[1, 1]
+Target: 0
+Result: 0.593907
+Recent Error: 0.593907
+[0, 0]
+Target: 1
+Result: 0.438177
+Recent Error: 0.561823
+[0, 0]
+Target: 1
+Result: 0.582717
+Recent Error: 0.417283
+[0, 1]
+Target: 1
+Result: 0.690847
+Recent Error: 0.309153
+[1, 1]
+Target: 0
+Result: 0.752971
+Recent Error: 0.752971
+[1, 1]
+Target: 0
+Result: 0.639923
+Recent Error: 0.639923
+[1, 0]
+Target: 1
+Result: 0.466317
+Recent Error: 0.533683
+[0, 1]
+Target: 1
+Result: 0.601009
+Recent Error: 0.398991
+[1, 1]
+Target: 0
+Result: 0.6996
+Recent Error: 0.6996
+[0, 1]
+Target: 1
+Result: 0.568343
+Recent Error: 0.431657
+[0, 0]
+Target: 1
+Result: 0.641739
+Recent Error: 0.358261
+[0, 1]
+Target: 1
+Result: 0.721904
+Recent Error: 0.278096
+[1, 0]
+Target: 1
+Result: 0.765577
+Recent Error: 0.234423
+[0, 0]
+Target: 1
+Result: 0.785581
+Recent Error: 0.214419
+[0, 0]
+Target: 1
+Result: 0.809475
+Recent Error: 0.190525
+[1, 1]
+Target: 0
+Result: 0.843522
+Recent Error: 0.843522
+[0, 1]
+Target: 1
+Result: 0.757934
+Recent Error: 0.242066
+[1, 0]
+Target: 1
+Result: 0.777676
+Recent Error: 0.222324
+[1, 0]
+Target: 1
+Result: 0.803628
+Recent Error: 0.196372
+[1, 0]
+Target: 1
+Result: 0.82458
+Recent Error: 0.17542
+[1, 1]
+Target: 0
+Result: 0.846676
+Recent Error: 0.846676
+[1, 0]
+Target: 1
+Result: 0.762084
+Recent Error: 0.237916
+[1, 1]
+Target: 0
+Result: 0.787475
+Recent Error: 0.787475
+[1, 0]
+Target: 1
+Result: 0.678127
+Recent Error: 0.321873
+[0, 0]
+Target: 1
+Result: 0.708645
+Recent Error: 0.291355
+[0, 0]
+Target: 1
+Result: 0.75201
+Recent Error: 0.24799
+[0, 0]
+Target: 1
+Result: 0.784186
+Recent Error: 0.215814
+[0, 1]
+Target: 1
+Result: 0.818525
+Recent Error: 0.181475
+[1, 0]
+Target: 1
+Result: 0.836177
+Recent Error: 0.163823
+[1, 1]
+Target: 0
+Result: 0.855773
+Recent Error: 0.855773
+[0, 0]
+Target: 1
+Result: 0.765233
+Recent Error: 0.234767
+[0, 0]
+Target: 1
+Result: 0.782422
+Recent Error: 0.217578
+[1, 0]
+Target: 1
+Result: 0.815465
+Recent Error: 0.184535
+[0, 0]
+Target: 1
+Result: 0.824376
+Recent Error: 0.175624
+[0, 0]
+Target: 1
+Result: 0.84002
+Recent Error: 0.15998
+[0, 1]
+Target: 1
+Result: 0.861788
+Recent Error: 0.138212
+[1, 1]
+Target: 0
+Result: 0.876498
+Recent Error: 0.876498
+[1, 0]
+Target: 1
+Result: 0.806128
+Recent Error: 0.193872
+[0, 0]
+Target: 1
+Result: 0.807295
+Recent Error: 0.192705
+[1, 1]
+Target: 0
+Result: 0.839732
+Recent Error: 0.839732
+[0, 1]
+Target: 1
+Result: 0.753482
+Recent Error: 0.246518
+[1, 0]
+Target: 1
+Result: 0.774219
+Recent Error: 0.225781
+[1, 1]
+Target: 0
+Result: 0.806499
+Recent Error: 0.806499
+[1, 0]
+Target: 1
+Result: 0.707168
+Recent Error: 0.292832
+[1, 1]
+Target: 0
+Result: 0.745895
+Recent Error: 0.745895
+[1, 0]
+Target: 1
+Result: 0.625142
+Recent Error: 0.374858
+[1, 0]
+Target: 1
+Result: 0.68462
+Recent Error: 0.31538
+[0, 1]
+Target: 1
+Result: 0.738803
+Recent Error: 0.261197
+[0, 1]
+Target: 1
+Result: 0.776558
+Recent Error: 0.223442
+[1, 0]
+Target: 1
+Result: 0.803731
+Recent Error: 0.196269
+[1, 0]
+Target: 1
+Result: 0.8245
+Recent Error: 0.1755
+[1, 0]
+Target: 1
+Result: 0.840954
+Recent Error: 0.159046
+[1, 0]
+Target: 1
+Result: 0.854374
+Recent Error: 0.145626
+[0, 0]
+Target: 1
+Result: 0.857244
+Recent Error: 0.142756
+[0, 1]
+Target: 1
+Result: 0.875318
+Recent Error: 0.124682
+[1, 1]
+Target: 0
+Result: 0.887864
+Recent Error: 0.887864
+[0, 0]
+Target: 1
+Result: 0.814448
+Recent Error: 0.185552
+[1, 0]
+Target: 1
+Result: 0.832094
+Recent Error: 0.167906
+[0, 1]
+Target: 1
+Result: 0.846126
+Recent Error: 0.153874
+[0, 1]
+Target: 1
+Result: 0.858535
+Recent Error: 0.141465
+[0, 0]
+Target: 1
+Result: 0.861024
+Recent Error: 0.138976
+[1, 1]
+Target: 0
+Result: 0.882761
+Recent Error: 0.882761
+[0, 0]
+Target: 1
+Result: 0.807245
+Recent Error: 0.192755
+[0, 0]
+Target: 1
+Result: 0.816973
+Recent Error: 0.183027
+[1, 0]
+Target: 1
+Result: 0.841463
+Recent Error: 0.158537
+[0, 0]
+Target: 1
+Result: 0.846445
+Recent Error: 0.153555
+[0, 1]
+Target: 1
+Result: 0.866058
+Recent Error: 0.133942
+[0, 1]
+Target: 1
+Result: 0.875474
+Recent Error: 0.124526
+[1, 0]
+Target: 1
+Result: 0.883537
+Recent Error: 0.116463
+[1, 1]
+Target: 0
+Result: 0.894718
+Recent Error: 0.894718
+[0, 0]
+Target: 1
+Result: 0.825632
+Recent Error: 0.174368
+[0, 0]
+Target: 1
+Result: 0.832759
+Recent Error: 0.167241
+[1, 0]
+Target: 1
+Result: 0.853957
+Recent Error: 0.146043
+[0, 1]
+Target: 1
+Result: 0.865056
+Recent Error: 0.134944
+[1, 1]
+Target: 0
+Result: 0.878992
+Recent Error: 0.878992
+[0, 1]
+Target: 1
+Result: 0.811257
+Recent Error: 0.188743
+[1, 0]
+Target: 1
+Result: 0.821006
+Recent Error: 0.178994
+[0, 1]
+Target: 1
+Result: 0.83699
+Recent Error: 0.16301
+[0, 1]
+Target: 1
+Result: 0.850876
+Recent Error: 0.149124
+[1, 1]
+Target: 0
+Result: 0.867121
+Recent Error: 0.867121
+[1, 1]
+Target: 0
+Result: 0.799699
+Recent Error: 0.799699
+[1, 1]
+Target: 0
+Result: 0.690933
+Recent Error: 0.690933
+[0, 1]
+Target: 1
+Result: 0.536292
+Recent Error: 0.463708
+[0, 1]
+Target: 1
+Result: 0.630199
+Recent Error: 0.369801
+[1, 0]
+Target: 1
+Result: 0.704888
+Recent Error: 0.295112
+[0, 1]
+Target: 1
+Result: 0.753228
+Recent Error: 0.246772
+[0, 1]
+Target: 1
+Result: 0.78632
+Recent Error: 0.21368
+[0, 1]
+Target: 1
+Result: 0.810743
+Recent Error: 0.189257
+[1, 0]
+Target: 1
+Result: 0.829368
+Recent Error: 0.170632
+[0, 0]
+Target: 1
+Result: 0.836819
+Recent Error: 0.163181
+[1, 1]
+Target: 0
+Result: 0.862336
+Recent Error: 0.862336
+[1, 0]
+Target: 1
+Result: 0.787921
+Recent Error: 0.212079
+[1, 1]
+Target: 0
+Result: 0.806987
+Recent Error: 0.806987
+[1, 1]
+Target: 0
+Result: 0.715225
+Recent Error: 0.715225
+[0, 0]
+Target: 1
+Result: 0.563815
+Recent Error: 0.436185
+[0, 1]
+Target: 1
+Result: 0.64857
+Recent Error: 0.35143
+[1, 1]
+Target: 0
+Result: 0.72049
+Recent Error: 0.72049
+[0, 1]
+Target: 1
+Result: 0.600817
+Recent Error: 0.399183
+[0, 1]
+Target: 1
+Result: 0.668213
+Recent Error: 0.331787
+[0, 1]
+Target: 1
+Result: 0.727001
+Recent Error: 0.272999
+[1, 1]
+Target: 0
+Result: 0.77261
+Recent Error: 0.77261
+[1, 1]
+Target: 0
+Result: 0.672276
+Recent Error: 0.672276
+[0, 1]
+Target: 1
+Result: 0.518491
+Recent Error: 0.481509
+[1, 1]
+Target: 0
+Result: 0.624336
+Recent Error: 0.624336
+[1, 1]
+Target: 0
+Result: 0.491994
+Recent Error: 0.491994
+[1, 1]
+Target: 0
+Result: 0.321452
+Recent Error: 0.321452
+[0, 0]
+Target: 1
+Result: 0.177574
+Recent Error: 0.822426
+[1, 1]
+Target: 0
+Result: 0.4776
+Recent Error: 0.4776
+[1, 1]
+Target: 0
+Result: 0.356198
+Recent Error: 0.356198
+[0, 0]
+Target: 1
+Result: 0.2097
+Recent Error: 0.7903
+[1, 0]
+Target: 1
+Result: 0.484039
+Recent Error: 0.515961
+[1, 1]
+Target: 0
+Result: 0.638812
+Recent Error: 0.638812
+[1, 0]
+Target: 1
+Result: 0.512533
+Recent Error: 0.487467
+[0, 1]
+Target: 1
+Result: 0.617161
+Recent Error: 0.382839
+[1, 1]
+Target: 0
+Result: 0.700611
+Recent Error: 0.700611
+[1, 0]
+Target: 1
+Result: 0.580641
+Recent Error: 0.419359
+[0, 0]
+Target: 1
+Result: 0.64653
+Recent Error: 0.35347
+[1, 0]
+Target: 1
+Result: 0.716341
+Recent Error: 0.283659
+[1, 0]
+Target: 1
+Result: 0.758738
+Recent Error: 0.241262
+[1, 0]
+Target: 1
+Result: 0.788974
+Recent Error: 0.211026
+[0, 0]
+Target: 1
+Result: 0.804279
+Recent Error: 0.195721
+[1, 0]
+Target: 1
+Result: 0.83011
+Recent Error: 0.16989
+[0, 1]
+Target: 1
+Result: 0.844943
+Recent Error: 0.155057
+[0, 1]
+Target: 1
+Result: 0.857031
+Recent Error: 0.142969
+[0, 0]
+Target: 1
+Result: 0.860374
+Recent Error: 0.139626
+[1, 1]
+Target: 0
+Result: 0.880493
+Recent Error: 0.880493
+[1, 1]
+Target: 0
+Result: 0.821948
+Recent Error: 0.821948
+[0, 0]
+Target: 1
+Result: 0.715445
+Recent Error: 0.284555
+[1, 1]
+Target: 0
+Result: 0.754069
+Recent Error: 0.754069
+[0, 0]
+Target: 1
+Result: 0.638151
+Recent Error: 0.361849
+[0, 1]
+Target: 1
+Result: 0.693993
+Recent Error: 0.306007
+[0, 0]
+Target: 1
+Result: 0.733751
+Recent Error: 0.266249
+[1, 1]
+Target: 0
+Result: 0.781239
+Recent Error: 0.781239
+[0, 0]
+Target: 1
+Result: 0.675728
+Recent Error: 0.324272
+[0, 1]
+Target: 1
+Result: 0.720234
+Recent Error: 0.279766
+[0, 0]
+Target: 1
+Result: 0.751808
+Recent Error: 0.248192
+[1, 0]
+Target: 1
+Result: 0.788661
+Recent Error: 0.211339
+[0, 1]
+Target: 1
+Result: 0.811723
+Recent Error: 0.188277
+[1, 0]
+Target: 1
+Result: 0.829072
+Recent Error: 0.170928
+[0, 1]
+Target: 1
+Result: 0.844043
+Recent Error: 0.155957
+[1, 0]
+Target: 1
+Result: 0.855696
+Recent Error: 0.144304
+[0, 0]
+Target: 1
+Result: 0.860037
+Recent Error: 0.139963
+[1, 1]
+Target: 0
+Result: 0.879341
+Recent Error: 0.879341
+[0, 0]
+Target: 1
+Result: 0.809692
+Recent Error: 0.190308
+[0, 0]
+Target: 1
+Result: 0.818558
+Recent Error: 0.181442
+[0, 0]
+Target: 1
+Result: 0.833381
+Recent Error: 0.166619
+[1, 0]
+Target: 1
+Result: 0.852418
+Recent Error: 0.147582
+[0, 0]
+Target: 1
+Result: 0.857412
+Recent Error: 0.142588
+[1, 0]
+Target: 1
+Result: 0.87257
+Recent Error: 0.12743
+[0, 1]
+Target: 1
+Result: 0.880853
+Recent Error: 0.119147
+[1, 1]
+Target: 0
+Result: 0.891481
+Recent Error: 0.891481
+[1, 0]
+Target: 1
+Result: 0.833835
+Recent Error: 0.166165
+[1, 0]
+Target: 1
+Result: 0.839989
+Recent Error: 0.160011
+[1, 0]
+Target: 1
+Result: 0.851836
+Recent Error: 0.148164
+[0, 1]
+Target: 1
+Result: 0.862779
+Recent Error: 0.137221
+[1, 1]
+Target: 0
+Result: 0.875928
+Recent Error: 0.875928
+[1, 1]
+Target: 0
+Result: 0.816788
+Recent Error: 0.816788
+[1, 0]
+Target: 1
+Result: 0.718599
+Recent Error: 0.281401
+[0, 0]
+Target: 1
+Result: 0.738217
+Recent Error: 0.261783
+[0, 0]
+Target: 1
+Result: 0.770069
+Recent Error: 0.229931
+[0, 0]
+Target: 1
+Result: 0.795465
+Recent Error: 0.204535
+[0, 0]
+Target: 1
+Result: 0.815491
+Recent Error: 0.184509
+[0, 0]
+Target: 1
+Result: 0.831685
+Recent Error: 0.168315
+[0, 0]
+Target: 1
+Result: 0.845092
+Recent Error: 0.154908
+[0, 1]
+Target: 1
+Result: 0.86188
+Recent Error: 0.13812
+[1, 1]
+Target: 0
+Result: 0.874948
+Recent Error: 0.874948
+[0, 1]
+Target: 1
+Result: 0.811721
+Recent Error: 0.188279
+[1, 1]
+Target: 0
+Result: 0.824888
+Recent Error: 0.824888
+[1, 0]
+Target: 1
+Result: 0.741692
+Recent Error: 0.258308
+[1, 1]
+Target: 0
+Result: 0.76774
+Recent Error: 0.76774
+[0, 0]
+Target: 1
+Result: 0.661746
+Recent Error: 0.338254
+[1, 1]
+Target: 0
+Result: 0.712071
+Recent Error: 0.712071
+[1, 0]
+Target: 1
+Result: 0.598466
+Recent Error: 0.401534
+[0, 0]
+Target: 1
+Result: 0.656873
+Recent Error: 0.343127
+[0, 0]
+Target: 1
+Result: 0.713541
+Recent Error: 0.286459
+[0, 1]
+Target: 1
+Result: 0.759181
+Recent Error: 0.240819
+[1, 1]
+Target: 0
+Result: 0.792291
+Recent Error: 0.792291
+[1, 1]
+Target: 0
+Result: 0.705748
+Recent Error: 0.705748
+[1, 1]
+Target: 0
+Result: 0.577443
+Recent Error: 0.577443
+[1, 0]
+Target: 1
+Result: 0.421041
+Recent Error: 0.578959
+[0, 1]
+Target: 1
+Result: 0.562341
+Recent Error: 0.437659
+[1, 0]
+Target: 1
+Result: 0.660441
+Recent Error: 0.339559
+[0, 1]
+Target: 1
+Result: 0.720025
+Recent Error: 0.279975
+[1, 1]
+Target: 0
+Result: 0.763491
+Recent Error: 0.763491
+[1, 0]
+Target: 1
+Result: 0.666289
+Recent Error: 0.333711
+[0, 1]
+Target: 1
+Result: 0.70676
+Recent Error: 0.29324
+[0, 1]
+Target: 1
+Result: 0.748134
+Recent Error: 0.251866
+[1, 0]
+Target: 1
+Result: 0.778983
+Recent Error: 0.221017
+[0, 1]
+Target: 1
+Result: 0.803117
+Recent Error: 0.196883
+[0, 0]
+Target: 1
+Result: 0.816851
+Recent Error: 0.183149
+[1, 0]
+Target: 1
+Result: 0.837008
+Recent Error: 0.162992
+[1, 0]
+Target: 1
+Result: 0.849743
+Recent Error: 0.150257
+[1, 0]
+Target: 1
+Result: 0.860523
+Recent Error: 0.139477
+[0, 1]
+Target: 1
+Result: 0.869968
+Recent Error: 0.130032
+[0, 1]
+Target: 1
+Result: 0.878018
+Recent Error: 0.121982
+[1, 0]
+Target: 1
+Result: 0.884862
+Recent Error: 0.115138
+[0, 0]
+Target: 1
+Result: 0.887195
+Recent Error: 0.112805
+[1, 0]
+Target: 1
+Result: 0.896867
+Recent Error: 0.103133
+[1, 0]
+Target: 1
+Result: 0.901926
+Recent Error: 0.098074
+[1, 1]
+Target: 0
+Result: 0.909452
+Recent Error: 0.909452
+[1, 0]
+Target: 1
+Result: 0.862427
+Recent Error: 0.137573
+[0, 1]
+Target: 1
+Result: 0.865558
+Recent Error: 0.134442
+[1, 1]
+Target: 0
+Result: 0.876739
+Recent Error: 0.876739
+[1, 1]
+Target: 0
+Result: 0.82037
+Recent Error: 0.82037
+[0, 1]
+Target: 1
+Result: 0.729437
+Recent Error: 0.270563
+[0, 0]
+Target: 1
+Result: 0.747325
+Recent Error: 0.252675
+[0, 1]
+Target: 1
+Result: 0.780615
+Recent Error: 0.219385
+[0, 1]
+Target: 1
+Result: 0.803757
+Recent Error: 0.196243
+[0, 0]
+Target: 1
+Result: 0.817751
+Recent Error: 0.182249
+[0, 0]
+Target: 1
+Result: 0.833094
+Recent Error: 0.166906
+[0, 1]
+Target: 1
+Result: 0.850145
+Recent Error: 0.149855
+[0, 0]
+Target: 1
+Result: 0.856664
+Recent Error: 0.143336
+[0, 1]
+Target: 1
+Result: 0.870074
+Recent Error: 0.129926
+[1, 1]
+Target: 0
+Result: 0.880871
+Recent Error: 0.880871
+[0, 0]
+Target: 1
+Result: 0.819284
+Recent Error: 0.180716
+[0, 1]
+Target: 1
+Result: 0.830849
+Recent Error: 0.169151
+[0, 1]
+Target: 1
+Result: 0.84363
+Recent Error: 0.15637
+[0, 0]
+Target: 1
+Result: 0.851063
+Recent Error: 0.148937
+[0, 0]
+Target: 1
+Result: 0.861194
+Recent Error: 0.138806
+[1, 1]
+Target: 0
+Result: 0.876469
+Recent Error: 0.876469
+[1, 1]
+Target: 0
+Result: 0.820894
+Recent Error: 0.820894
+[1, 1]
+Target: 0
+Result: 0.735155
+Recent Error: 0.735155
+[1, 1]
+Target: 0
+Result: 0.619435
+Recent Error: 0.619435
+[1, 1]
+Target: 0
+Result: 0.477377
+Recent Error: 0.477377
+[0, 1]
+Target: 1
+Result: 0.326543
+Recent Error: 0.673457
+[1, 0]
+Target: 1
+Result: 0.51434
+Recent Error: 0.48566
+[1, 1]
+Target: 0
+Result: 0.635353
+Recent Error: 0.635353
+[0, 1]
+Target: 1
+Result: 0.524933
+Recent Error: 0.475067
+[1, 1]
+Target: 0
+Result: 0.61656
+Recent Error: 0.61656
+[0, 1]
+Target: 1
+Result: 0.501239
+Recent Error: 0.498761
+[0, 1]
+Target: 1
+Result: 0.600456
+Recent Error: 0.399544
+[0, 0]
+Target: 1
+Result: 0.674257
+Recent Error: 0.325743
+[0, 0]
+Target: 1
+Result: 0.724697
+Recent Error: 0.275303
+[0, 0]
+Target: 1
+Result: 0.760114
+Recent Error: 0.239886
+[0, 0]
+Target: 1
+Result: 0.786628
+Recent Error: 0.213372
+[1, 0]
+Target: 1
+Result: 0.810082
+Recent Error: 0.189918
+[1, 0]
+Target: 1
+Result: 0.826782
+Recent Error: 0.173218
+[1, 0]
+Target: 1
+Result: 0.840613
+Recent Error: 0.159387
+[0, 0]
+Target: 1
+Result: 0.84964
+Recent Error: 0.15036
+[1, 0]
+Target: 1
+Result: 0.862352
+Recent Error: 0.137648
+[0, 0]
+Target: 1
+Result: 0.86849
+Recent Error: 0.13151
+[0, 1]
+Target: 1
+Result: 0.879149
+Recent Error: 0.120851
+[0, 0]
+Target: 1
+Result: 0.882981
+Recent Error: 0.117019
+[0, 1]
+Target: 1
+Result: 0.8919
+Recent Error: 0.1081
+[0, 0]
+Target: 1
+Result: 0.894515
+Recent Error: 0.105485
+[0, 0]
+Target: 1
+Result: 0.899486
+Recent Error: 0.100514
+[1, 0]
+Target: 1
+Result: 0.906164
+Recent Error: 0.0938358
+[0, 1]
+Target: 1
+Result: 0.910628
+Recent Error: 0.0893724
+[0, 1]
+Target: 1
+Result: 0.914308
+Recent Error: 0.0856924
+[0, 1]
+Target: 1
+Result: 0.917696
+Recent Error: 0.0823045
+[1, 1]
+Target: 0
+Result: 0.922481
+Recent Error: 0.922481
+[1, 0]
+Target: 1
+Result: 0.883606
+Recent Error: 0.116394
+[0, 0]
+Target: 1
+Result: 0.882799
+Recent Error: 0.117201
+[1, 0]
+Target: 1
+Result: 0.890495
+Recent Error: 0.109505
+[1, 0]
+Target: 1
+Result: 0.895922
+Recent Error: 0.104078
+[0, 1]
+Target: 1
+Result: 0.901298
+Recent Error: 0.0987018
+[1, 0]
+Target: 1
+Result: 0.905319
+Recent Error: 0.0946813
+[0, 1]
+Target: 1
+Result: 0.909825
+Recent Error: 0.0901749
+[0, 0]
+Target: 1
+Result: 0.911221
+Recent Error: 0.0887788
+[0, 0]
+Target: 1
+Result: 0.914746
+Recent Error: 0.0852538
+[0, 0]
+Target: 1
+Result: 0.918005
+Recent Error: 0.0819945
+[0, 0]
+Target: 1
+Result: 0.921024
+Recent Error: 0.078976
+[0, 1]
+Target: 1
+Result: 0.925947
+Recent Error: 0.0740526
+[1, 0]
+Target: 1
+Result: 0.92809
+Recent Error: 0.07191
+[0, 1]
+Target: 1
+Result: 0.93084
+Recent Error: 0.0691597
+[1, 1]
+Target: 0
+Result: 0.934449
+Recent Error: 0.934449
+[1, 0]
+Target: 1
+Result: 0.900956
+Recent Error: 0.0990443
+[1, 1]
+Target: 0
+Result: 0.903292
+Recent Error: 0.903292
+[1, 0]
+Target: 1
+Result: 0.857008
+Recent Error: 0.142992
+[1, 0]
+Target: 1
+Result: 0.860313
+Recent Error: 0.139687
+[1, 1]
+Target: 0
+Result: 0.870582
+Recent Error: 0.870582
+[1, 0]
+Target: 1
+Result: 0.813465
+Recent Error: 0.186535
+[1, 1]
+Target: 0
+Result: 0.823561
+Recent Error: 0.823561
+[1, 1]
+Target: 0
+Result: 0.752769
+Recent Error: 0.752769
+[1, 1]
+Target: 0
+Result: 0.650149
+Recent Error: 0.650149
+[0, 1]
+Target: 1
+Result: 0.521675
+Recent Error: 0.478325
+[1, 0]
+Target: 1
+Result: 0.606657
+Recent Error: 0.393343
+[1, 1]
+Target: 0
+Result: 0.679816
+Recent Error: 0.679816
+[1, 1]
+Target: 0
+Result: 0.580554
+Recent Error: 0.580554
+[1, 1]
+Target: 0
+Result: 0.446699
+Recent Error: 0.446699
+[0, 1]
+Target: 1
+Result: 0.30863
+Recent Error: 0.69137
+[0, 1]
+Target: 1
+Result: 0.49755
+Recent Error: 0.50245
+[1, 0]
+Target: 1
+Result: 0.617825
+Recent Error: 0.382175
+[0, 0]
+Target: 1
+Result: 0.686688
+Recent Error: 0.313312
+[0, 1]
+Target: 1
+Result: 0.733247
+Recent Error: 0.266753
+[0, 1]
+Target: 1
+Result: 0.765798
+Recent Error: 0.234202
+[0, 1]
+Target: 1
+Result: 0.790607
+Recent Error: 0.209393
+[1, 1]
+Target: 0
+Result: 0.811091
+Recent Error: 0.811091
+[0, 0]
+Target: 1
+Result: 0.738593
+Recent Error: 0.261407
+[1, 1]
+Target: 0
+Result: 0.760081
+Recent Error: 0.760081
+[1, 1]
+Target: 0
+Result: 0.675696
+Recent Error: 0.675696
+[1, 0]
+Target: 1
+Result: 0.558776
+Recent Error: 0.441224
+[1, 0]
+Target: 1
+Result: 0.627449
+Recent Error: 0.372551
+[1, 1]
+Target: 0
+Result: 0.690089
+Recent Error: 0.690089
+[1, 1]
+Target: 0
+Result: 0.595844
+Recent Error: 0.595844
+[0, 0]
+Target: 1
+Result: 0.468875
+Recent Error: 0.531125
+[0, 1]
+Target: 1
+Result: 0.573408
+Recent Error: 0.426592
+[1, 1]
+Target: 0
+Result: 0.655732
+Recent Error: 0.655732
+[1, 0]
+Target: 1
+Result: 0.558745
+Recent Error: 0.441255
+[0, 1]
+Target: 1
+Result: 0.628879
+Recent Error: 0.371121
+[1, 0]
+Target: 1
+Result: 0.689388
+Recent Error: 0.310612
+[1, 0]
+Target: 1
+Result: 0.732623
+Recent Error: 0.267377
+[0, 0]
+Target: 1
+Result: 0.764443
+Recent Error: 0.235557
+[1, 0]
+Target: 1
+Result: 0.788692
+Recent Error: 0.211308
+[1, 0]
+Target: 1
+Result: 0.808197
+Recent Error: 0.191803
+[0, 0]
+Target: 1
+Result: 0.824118
+Recent Error: 0.175882
+[1, 1]
+Target: 0
+Result: 0.837865
+Recent Error: 0.837865
+[1, 1]
+Target: 0
+Result: 0.776713
+Recent Error: 0.776713
+[1, 0]
+Target: 1
+Result: 0.688694
+Recent Error: 0.311306
+[0, 1]
+Target: 1
+Result: 0.717706
+Recent Error: 0.282294
+[1, 0]
+Target: 1
+Result: 0.75113
+Recent Error: 0.24887
+[1, 1]
+Target: 0
+Result: 0.777717
+Recent Error: 0.777717
+[1, 0]
+Target: 1
+Result: 0.702966
+Recent Error: 0.297034
+[1, 0]
+Target: 1
+Result: 0.729658
+Recent Error: 0.270342
+[0, 1]
+Target: 1
+Result: 0.760251
+Recent Error: 0.239749
+[0, 0]
+Target: 1
+Result: 0.785693
+Recent Error: 0.214307
+[1, 1]
+Target: 0
+Result: 0.804373
+Recent Error: 0.804373
+[0, 1]
+Target: 1
+Result: 0.736586
+Recent Error: 0.263414
+[1, 1]
+Target: 0
+Result: 0.755219
+Recent Error: 0.755219
+[0, 0]
+Target: 1
+Result: 0.676924
+Recent Error: 0.323076
+[0, 0]
+Target: 1
+Result: 0.7096
+Recent Error: 0.2904
+[1, 1]
+Target: 0
+Result: 0.742549
+Recent Error: 0.742549
+[1, 0]
+Target: 1
+Result: 0.662971
+Recent Error: 0.337029
+[0, 0]
+Target: 1
+Result: 0.700388
+Recent Error: 0.299612
+[0, 0]
+Target: 1
+Result: 0.738296
+Recent Error: 0.261704
+[1, 0]
+Target: 1
+Result: 0.76636
+Recent Error: 0.23364
+[1, 0]
+Target: 1
+Result: 0.78973
+Recent Error: 0.21027
+[1, 0]
+Target: 1
+Result: 0.808594
+Recent Error: 0.191406
+[1, 0]
+Target: 1
+Result: 0.824184
+Recent Error: 0.175816
+[1, 1]
+Target: 0
+Result: 0.835809
+Recent Error: 0.835809
+[1, 1]
+Target: 0
+Result: 0.776289
+Recent Error: 0.776289
+[1, 1]
+Target: 0
+Result: 0.691413
+Recent Error: 0.691413
+[0, 1]
+Target: 1
+Result: 0.588491
+Recent Error: 0.411509
+[0, 1]
+Target: 1
+Result: 0.643476
+Recent Error: 0.356524
+[1, 0]
+Target: 1
+Result: 0.696921
+Recent Error: 0.303079
+[0, 1]
+Target: 1
+Result: 0.735976
+Recent Error: 0.264024
+[0, 1]
+Target: 1
+Result: 0.765614
+Recent Error: 0.234386
+[0, 1]
+Target: 1
+Result: 0.78883
+Recent Error: 0.21117
+[1, 1]
+Target: 0
+Result: 0.805278
+Recent Error: 0.805278
+[0, 1]
+Target: 1
+Result: 0.742345
+Recent Error: 0.257655
+[1, 1]
+Target: 0
+Result: 0.757503
+Recent Error: 0.757503
+[1, 0]
+Target: 1
+Result: 0.683845
+Recent Error: 0.316155
+[0, 1]
+Target: 1
+Result: 0.71377
+Recent Error: 0.28623
+[1, 1]
+Target: 0
+Result: 0.743825
+Recent Error: 0.743825
+[1, 0]
+Target: 1
+Result: 0.669796
+Recent Error: 0.330204
+[0, 1]
+Target: 1
+Result: 0.703051
+Recent Error: 0.296949
+[1, 0]
+Target: 1
+Result: 0.738764
+Recent Error: 0.261236
+[0, 1]
+Target: 1
+Result: 0.767294
+Recent Error: 0.232706
+[1, 0]
+Target: 1
+Result: 0.789741
+Recent Error: 0.210259
+[0, 0]
+Target: 1
+Result: 0.811041
+Recent Error: 0.188959
+[1, 0]
+Target: 1
+Result: 0.823187
+Recent Error: 0.176813
+[1, 1]
+Target: 0
+Result: 0.8331
+Recent Error: 0.8331
+[1, 0]
+Target: 1
+Result: 0.778893
+Recent Error: 0.221107
+[1, 0]
+Target: 1
+Result: 0.790852
+Recent Error: 0.209148
+[1, 1]
+Target: 0
+Result: 0.804262
+Recent Error: 0.804262
+[0, 0]
+Target: 1
+Result: 0.748047
+Recent Error: 0.251953
+[0, 1]
+Target: 1
+Result: 0.761181
+Recent Error: 0.238819
+[1, 0]
+Target: 1
+Result: 0.783882
+Recent Error: 0.216118
+[0, 0]
+Target: 1
+Result: 0.806608
+Recent Error: 0.193392
+[1, 0]
+Target: 1
+Result: 0.818773
+Recent Error: 0.181227
+[0, 0]
+Target: 1
+Result: 0.835567
+Recent Error: 0.164433
+[1, 1]
+Target: 0
+Result: 0.839603
+Recent Error: 0.839603
+[0, 1]
+Target: 1
+Result: 0.788568
+Recent Error: 0.211432
+[0, 1]
+Target: 1
+Result: 0.799046
+Recent Error: 0.200954
+[1, 0]
+Target: 1
+Result: 0.814935
+Recent Error: 0.185065
+[0, 0]
+Target: 1
+Result: 0.832674
+Recent Error: 0.167326
+[1, 1]
+Target: 0
+Result: 0.836108
+Recent Error: 0.836108
+[0, 0]
+Target: 1
+Result: 0.790221
+Recent Error: 0.209779
+[1, 1]
+Target: 0
+Result: 0.790487
+Recent Error: 0.790487
+[1, 0]
+Target: 1
+Result: 0.730225
+Recent Error: 0.269775
+[0, 1]
+Target: 1
+Result: 0.749389
+Recent Error: 0.250611
+[1, 0]
+Target: 1
+Result: 0.774212
+Recent Error: 0.225788
+[0, 0]
+Target: 1
+Result: 0.799815
+Recent Error: 0.200185
+[1, 1]
+Target: 0
+Result: 0.805501
+Recent Error: 0.805501
+[0, 0]
+Target: 1
+Result: 0.756299
+Recent Error: 0.243701
+[1, 0]
+Target: 1
+Result: 0.766341
+Recent Error: 0.233659
+[0, 0]
+Target: 1
+Result: 0.792978
+Recent Error: 0.207022
+[1, 0]
+Target: 1
+Result: 0.805311
+Recent Error: 0.194689
+[1, 1]
+Target: 0
+Result: 0.813708
+Recent Error: 0.813708
+[0, 0]
+Target: 1
+Result: 0.768178
+Recent Error: 0.231822
+[1, 0]
+Target: 1
+Result: 0.775864
+Recent Error: 0.224136
+[1, 0]
+Target: 1
+Result: 0.79516
+Recent Error: 0.20484
+[1, 1]
+Target: 0
+Result: 0.804071
+Recent Error: 0.804071
+[1, 1]
+Target: 0
+Result: 0.742752
+Recent Error: 0.742752
+[0, 0]
+Target: 1
+Result: 0.676238
+Recent Error: 0.323762
+[1, 0]
+Target: 1
+Result: 0.699697
+Recent Error: 0.300303
+[1, 0]
+Target: 1
+Result: 0.734597
+Recent Error: 0.265403
+[0, 1]
+Target: 1
+Result: 0.761244
+Recent Error: 0.238756
+[0, 1]
+Target: 1
+Result: 0.783869
+Recent Error: 0.216131
+[0, 0]
+Target: 1
+Result: 0.810267
+Recent Error: 0.189733
+[0, 1]
+Target: 1
+Result: 0.817473
+Recent Error: 0.182527
+[0, 0]
+Target: 1
+Result: 0.837985
+Recent Error: 0.162015
+[1, 1]
+Target: 0
+Result: 0.833931
+Recent Error: 0.833931
+[1, 0]
+Target: 1
+Result: 0.790314
+Recent Error: 0.209686
+[0, 1]
+Target: 1
+Result: 0.799144
+Recent Error: 0.200856
+[1, 0]
+Target: 1
+Result: 0.815287
+Recent Error: 0.184713
+[1, 0]
+Target: 1
+Result: 0.828764
+Recent Error: 0.171236
+[0, 0]
+Target: 1
+Result: 0.847058
+Recent Error: 0.152942
+[1, 1]
+Target: 0
+Result: 0.840837
+Recent Error: 0.840837
+[1, 1]
+Target: 0
+Result: 0.788458
+Recent Error: 0.788458
+[1, 1]
+Target: 0
+Result: 0.716904
+Recent Error: 0.716904
+[1, 0]
+Target: 1
+Result: 0.645629
+Recent Error: 0.354371
+[1, 1]
+Target: 0
+Result: 0.666502
+Recent Error: 0.666502
+[0, 0]
+Target: 1
+Result: 0.612978
+Recent Error: 0.387022
+[1, 0]
+Target: 1
+Result: 0.650506
+Recent Error: 0.349494
+[0, 1]
+Target: 1
+Result: 0.695046
+Recent Error: 0.304954
+[0, 1]
+Target: 1
+Result: 0.731017
+Recent Error: 0.268983
+[1, 1]
+Target: 0
+Result: 0.74524
+Recent Error: 0.74524
+[0, 0]
+Target: 1
+Result: 0.706563
+Recent Error: 0.293437
+[0, 1]
+Target: 1
+Result: 0.718132
+Recent Error: 0.281868
+[1, 1]
+Target: 0
+Result: 0.732078
+Recent Error: 0.732078
+[1, 0]
+Target: 1
+Result: 0.682073
+Recent Error: 0.317927
+[1, 1]
+Target: 0
+Result: 0.69158
+Recent Error: 0.69158
+[1, 0]
+Target: 1
+Result: 0.637734
+Recent Error: 0.362266
+[1, 0]
+Target: 1
+Result: 0.675465
+Recent Error: 0.324535
+[1, 0]
+Target: 1
+Result: 0.714777
+Recent Error: 0.285223
+[1, 0]
+Target: 1
+Result: 0.746053
+Recent Error: 0.253947
+[1, 1]
+Target: 0
+Result: 0.751421
+Recent Error: 0.751421
+[1, 1]
+Target: 0
+Result: 0.686654
+Recent Error: 0.686654
+[1, 0]
+Target: 1
+Result: 0.626012
+Recent Error: 0.373988
+[1, 1]
+Target: 0
+Result: 0.641666
+Recent Error: 0.641666
+[1, 1]
+Target: 0
+Result: 0.567644
+Recent Error: 0.567644
+[0, 1]
+Target: 1
+Result: 0.496172
+Recent Error: 0.503828
+[1, 1]
+Target: 0
+Result: 0.549668
+Recent Error: 0.549668
+[1, 1]
+Target: 0
+Result: 0.476794
+Recent Error: 0.476794
+[0, 1]
+Target: 1
+Result: 0.405906
+Recent Error: 0.594094
+[0, 1]
+Target: 1
+Result: 0.511356
+Recent Error: 0.488644
+[1, 1]
+Target: 0
+Result: 0.573187
+Recent Error: 0.573187
+[0, 0]
+Target: 1
+Result: 0.546891
+Recent Error: 0.453109
+[1, 1]
+Target: 0
+Result: 0.565373
+Recent Error: 0.565373
+[1, 0]
+Target: 1
+Result: 0.522708
+Recent Error: 0.477292
+[0, 0]
+Target: 1
+Result: 0.610823
+Recent Error: 0.389177
+[0, 1]
+Target: 1
+Result: 0.646504
+Recent Error: 0.353496
+[1, 1]
+Target: 0
+Result: 0.661489
+Recent Error: 0.661489
+[0, 0]
+Target: 1
+Result: 0.651702
+Recent Error: 0.348298
+[0, 1]
+Target: 1
+Result: 0.662199
+Recent Error: 0.337801
+[0, 1]
+Target: 1
+Result: 0.702425
+Recent Error: 0.297575
+[1, 0]
+Target: 1
+Result: 0.736709
+Recent Error: 0.263291
+[0, 0]
+Target: 1
+Result: 0.784077
+Recent Error: 0.215923
+[1, 0]
+Target: 1
+Result: 0.78206
+Recent Error: 0.21794
+[1, 1]
+Target: 0
+Result: 0.767042
+Recent Error: 0.767042
+[1, 1]
+Target: 0
+Result: 0.70542
+Recent Error: 0.70542
+[0, 0]
+Target: 1
+Result: 0.701943
+Recent Error: 0.298057
+[0, 1]
+Target: 1
+Result: 0.695098
+Recent Error: 0.304902
+[1, 1]
+Target: 0
+Result: 0.684584
+Recent Error: 0.684584
+[0, 0]
+Target: 1
+Result: 0.700125
+Recent Error: 0.299875
+[1, 0]
+Target: 1
+Result: 0.694253
+Recent Error: 0.305747
+[0, 1]
+Target: 1
+Result: 0.723609
+Recent Error: 0.276391
+[1, 0]
+Target: 1
+Result: 0.753646
+Recent Error: 0.246354
+[0, 1]
+Target: 1
+Result: 0.77311
+Recent Error: 0.22689
+[0, 0]
+Target: 1
+Result: 0.820626
+Recent Error: 0.179374
+[1, 0]
+Target: 1
+Result: 0.808352
+Recent Error: 0.191648
+[0, 0]
+Target: 1
+Result: 0.845994
+Recent Error: 0.154006
+[1, 0]
+Target: 1
+Result: 0.832513
+Recent Error: 0.167487
+[0, 0]
+Target: 1
+Result: 0.865036
+Recent Error: 0.134964
+[0, 1]
+Target: 1
+Result: 0.848576
+Recent Error: 0.151424
+[0, 1]
+Target: 1
+Result: 0.857218
+Recent Error: 0.142782
+[0, 0]
+Target: 1
+Result: 0.886709
+Recent Error: 0.113291
+[0, 0]
+Target: 1
+Result: 0.892064
+Recent Error: 0.107936
+[1, 1]
+Target: 0
+Result: 0.844224
+Recent Error: 0.844224
+[1, 0]
+Target: 1
+Result: 0.838047
+Recent Error: 0.161953
+[1, 0]
+Target: 1
+Result: 0.842661
+Recent Error: 0.157339
+[0, 1]
+Target: 1
+Result: 0.848678
+Recent Error: 0.151322
+[1, 0]
+Target: 1
+Result: 0.859844
+Recent Error: 0.140156
+[1, 1]
+Target: 0
+Result: 0.826037
+Recent Error: 0.826037
+[1, 0]
+Target: 1
+Result: 0.825384
+Recent Error: 0.174616
+[0, 0]
+Target: 1
+Result: 0.859907
+Recent Error: 0.140093
+[0, 0]
+Target: 1
+Result: 0.867517
+Recent Error: 0.132483
+[0, 1]
+Target: 1
+Result: 0.843939
+Recent Error: 0.156061
+[0, 0]
+Target: 1
+Result: 0.882092
+Recent Error: 0.117908
+[0, 1]
+Target: 1
+Result: 0.859732
+Recent Error: 0.140268
+[1, 0]
+Target: 1
+Result: 0.869752
+Recent Error: 0.130248
+[0, 1]
+Target: 1
+Result: 0.873646
+Recent Error: 0.126354
+[0, 0]
+Target: 1
+Result: 0.904407
+Recent Error: 0.095593
+[1, 0]
+Target: 1
+Result: 0.886723
+Recent Error: 0.113277
+[1, 0]
+Target: 1
+Result: 0.891747
+Recent Error: 0.108253
+[0, 0]
+Target: 1
+Result: 0.916161
+Recent Error: 0.0838394
+[0, 0]
+Target: 1
+Result: 0.91917
+Recent Error: 0.0808303
+[0, 1]
+Target: 1
+Result: 0.900656
+Recent Error: 0.0993438
+[0, 1]
+Target: 1
+Result: 0.90456
+Recent Error: 0.0954396
+[1, 0]
+Target: 1
+Result: 0.910241
+Recent Error: 0.0897588
+[1, 1]
+Target: 0
+Result: 0.878212
+Recent Error: 0.878212
+[0, 0]
+Target: 1
+Result: 0.906547
+Recent Error: 0.0934533
+[1, 1]
+Target: 0
+Result: 0.828313
+Recent Error: 0.828313
+[1, 1]
+Target: 0
+Result: 0.76551
+Recent Error: 0.76551
+[1, 1]
+Target: 0
+Result: 0.681697
+Recent Error: 0.681697
+[0, 1]
+Target: 1
+Result: 0.719953
+Recent Error: 0.280047
+[1, 1]
+Target: 0
+Result: 0.605319
+Recent Error: 0.605319
+[0, 0]
+Target: 1
+Result: 0.773489
+Recent Error: 0.226511
+[1, 0]
+Target: 1
+Result: 0.700932
+Recent Error: 0.299068
+[0, 1]
+Target: 1
+Result: 0.724832
+Recent Error: 0.275168
+[0, 0]
+Target: 1
+Result: 0.830167
+Recent Error: 0.169833
+[1, 1]
+Target: 0
+Result: 0.618196
+Recent Error: 0.618196
+[0, 1]
+Target: 1
+Result: 0.710367
+Recent Error: 0.289633
+[0, 1]
+Target: 1
+Result: 0.733285
+Recent Error: 0.266715
+[1, 1]
+Target: 0
+Result: 0.578123
+Recent Error: 0.578123
+[1, 0]
+Target: 1
+Result: 0.700744
+Recent Error: 0.299256
+[0, 1]
+Target: 1
+Result: 0.724344
+Recent Error: 0.275656
+[0, 1]
+Target: 1
+Result: 0.753745
+Recent Error: 0.246255
+[0, 0]
+Target: 1
+Result: 0.861757
+Recent Error: 0.138243
+[1, 0]
+Target: 1
+Result: 0.786611
+Recent Error: 0.213389
+[1, 1]
+Target: 0
+Result: 0.619674
+Recent Error: 0.619674
+[1, 1]
+Target: 0
+Result: 0.490619
+Recent Error: 0.490619
+[0, 1]
+Target: 1
+Result: 0.676804
+Recent Error: 0.323196
+[1, 0]
+Target: 1
+Result: 0.701959
+Recent Error: 0.298041
+[1, 1]
+Target: 0
+Result: 0.438173
+Recent Error: 0.438173
+[1, 0]
+Target: 1
+Result: 0.679634
+Recent Error: 0.320366
+[1, 0]
+Target: 1
+Result: 0.717267
+Recent Error: 0.282733
+[1, 1]
+Target: 0
+Result: 0.408331
+Recent Error: 0.408331
+[0, 1]
+Target: 1
+Result: 0.680946
+Recent Error: 0.319054
+[0, 1]
+Target: 1
+Result: 0.721369
+Recent Error: 0.278631
+[1, 1]
+Target: 0
+Result: 0.379856
+Recent Error: 0.379856
+[1, 1]
+Target: 0
+Result: 0.218797
+Recent Error: 0.218797
+[1, 0]
+Target: 1
+Result: 0.640138
+Recent Error: 0.359862
+[1, 1]
+Target: 0
+Result: 0.175999
+Recent Error: 0.175999
+[0, 0]
+Target: 1
+Result: 0.877322
+Recent Error: 0.122678
+[1, 1]
+Target: 0
+Result: 0.0878848
+Recent Error: 0.0878848
+[1, 0]
+Target: 1
+Result: 0.657438
+Recent Error: 0.342562
+[0, 0]
+Target: 1
+Result: 0.896853
+Recent Error: 0.103147
+[0, 1]
+Target: 1
+Result: 0.708909
+Recent Error: 0.291091
+[0, 1]
+Target: 1
+Result: 0.758366
+Recent Error: 0.241634
+[0, 1]
+Target: 1
+Result: 0.795013
+Recent Error: 0.204987
+[1, 1]
+Target: 0
+Result: 0.374523
+Recent Error: 0.374523
+[1, 0]
+Target: 1
+Result: 0.755195
+Recent Error: 0.244805
+[1, 1]
+Target: 0
+Result: 0.207231
+Recent Error: 0.207231
+[0, 1]
+Target: 1
+Result: 0.735901
+Recent Error: 0.264099
+[0, 1]
+Target: 1
+Result: 0.776839
+Recent Error: 0.223161
+[1, 0]
+Target: 1
+Result: 0.798412
+Recent Error: 0.201588
+[0, 0]
+Target: 1
+Result: 0.9447
+Recent Error: 0.0552997
+[0, 1]
+Target: 1
+Result: 0.838265
+Recent Error: 0.161735
+[1, 0]
+Target: 1
+Result: 0.845863
+Recent Error: 0.154137
+[1, 1]
+Target: 0
+Result: 0.39155
+Recent Error: 0.39155
+[1, 1]
+Target: 0
+Result: 0.111659
+Recent Error: 0.111659
+[1, 0]
+Target: 1
+Result: 0.761215
+Recent Error: 0.238785
+[1, 1]
+Target: 0
+Result: 0.0632408
+Recent Error: 0.0632408
+[1, 1]
+Target: 0
+Result: 0.014851
+Recent Error: 0.014851
+[1, 0]
+Target: 1
+Result: 0.784264
+Recent Error: 0.215736
+[0, 0]
+Target: 1
+Result: 0.953092
+Recent Error: 0.0469082
+[1, 1]
+Target: 0
+Result: 0.0867479
+Recent Error: 0.0867479
+[1, 0]
+Target: 1
+Result: 0.806865
+Recent Error: 0.193135
+[1, 1]
+Target: 0
+Result: 0.0701066
+Recent Error: 0.0701066
+[0, 1]
+Target: 1
+Result: 0.794968
+Recent Error: 0.205032
+[0, 1]
+Target: 1
+Result: 0.827235
+Recent Error: 0.172765
+[1, 0]
+Target: 1
+Result: 0.858422
+Recent Error: 0.141578
+[1, 1]
+Target: 0
+Result: 0.215203
+Recent Error: 0.215203
+[0, 0]
+Target: 1
+Result: 0.963509
+Recent Error: 0.0364912
+[1, 1]
+Target: 0
+Result: -0.0144365
+Recent Error: 0.0144365
+[1, 1]
+Target: 0
+Result: -0.00123944
+Recent Error: 0.00123944
+[0, 1]
+Target: 1
+Result: 0.82548
+Recent Error: 0.17452
+[1, 1]
+Target: 0
+Result: 0.0720985
+Recent Error: 0.0720985
+[0, 0]
+Target: 1
+Result: 0.966303
+Recent Error: 0.0336972
+[0, 1]
+Target: 1
+Result: 0.838832
+Recent Error: 0.161168
+[0, 0]
+Target: 1
+Result: 0.969258
+Recent Error: 0.0307416
+[0, 0]
+Target: 1
+Result: 0.96994
+Recent Error: 0.03006
+[0, 1]
+Target: 1
+Result: 0.867063
+Recent Error: 0.132937
+[0, 1]
+Target: 1
+Result: 0.881984
+Recent Error: 0.118016
+[0, 0]
+Target: 1
+Result: 0.973889
+Recent Error: 0.0261109
+[0, 0]
+Target: 1
+Result: 0.97437
+Recent Error: 0.0256298
+[1, 0]
+Target: 1
+Result: 0.887322
+Recent Error: 0.112678
+[0, 0]
+Target: 1
+Result: 0.976034
+Recent Error: 0.0239661
+[1, 0]
+Target: 1
+Result: 0.900129
+Recent Error: 0.0998714
+[1, 1]
+Target: 0
+Result: 0.282784
+Recent Error: 0.282784
+[0, 0]
+Target: 1
+Result: 0.974718
+Recent Error: 0.0252822
+[0, 0]
+Target: 1
+Result: 0.97472
+Recent Error: 0.0252801
+[1, 1]
+Target: 0
+Result: -0.0703557
+Recent Error: 0.0703557
+[0, 0]
+Target: 1
+Result: 0.975642
+Recent Error: 0.0243581
+[1, 0]
+Target: 1
+Result: 0.874393
+Recent Error: 0.125607
+[1, 0]
+Target: 1
+Result: 0.889034
+Recent Error: 0.110966
+[1, 1]
+Target: 0
+Result: 0.1315
+Recent Error: 0.1315
+[0, 1]
+Target: 1
+Result: 0.875089
+Recent Error: 0.124911
+[0, 0]
+Target: 1
+Result: 0.97883
+Recent Error: 0.0211697
+[0, 0]
+Target: 1
+Result: 0.979165
+Recent Error: 0.0208353
+[1, 0]
+Target: 1
+Result: 0.889793
+Recent Error: 0.110207
+[0, 0]
+Target: 1
+Result: 0.980479
+Recent Error: 0.0195206
+[0, 1]
+Target: 1
+Result: 0.900928
+Recent Error: 0.0990721
+[1, 0]
+Target: 1
+Result: 0.909806
+Recent Error: 0.0901943
+[1, 0]
+Target: 1
+Result: 0.917859
+Recent Error: 0.0821414
+[1, 1]
+Target: 0
+Result: 0.200836
+Recent Error: 0.200836
+[0, 1]
+Target: 1
+Result: 0.888005
+Recent Error: 0.111995
+[0, 0]
+Target: 1
+Result: 0.982627
+Recent Error: 0.0173729
+[0, 0]
+Target: 1
+Result: 0.982856
+Recent Error: 0.0171438
+[0, 1]
+Target: 1
+Result: 0.899976
+Recent Error: 0.100024
+[0, 1]
+Target: 1
+Result: 0.910242
+Recent Error: 0.0897579
+[1, 1]
+Target: 0
+Result: 0.0545173
+Recent Error: 0.0545173
+[1, 1]
+Target: 0
+Result: -0.0210519
+Recent Error: 0.0210519
+[0, 1]
+Target: 1
+Result: 0.914054
+Recent Error: 0.0859461
+[0, 0]
+Target: 1
+Result: 0.985053
+Recent Error: 0.0149465
+[0, 1]
+Target: 1
+Result: 0.92301
+Recent Error: 0.0769896
+[1, 0]
+Target: 1
+Result: 0.919729
+Recent Error: 0.080271
+[1, 1]
+Target: 0
+Result: 0.128065
+Recent Error: 0.128065
+[1, 0]
+Target: 1
+Result: 0.906437
+Recent Error: 0.093563
+[1, 1]
+Target: 0
+Result: -0.0367415
+Recent Error: 0.0367415
+[0, 0]
+Target: 1
+Result: 0.98646
+Recent Error: 0.0135395
+[0, 1]
+Target: 1
+Result: 0.926108
+Recent Error: 0.0738915
+[1, 0]
+Target: 1
+Result: 0.925762
+Recent Error: 0.0742379
+[1, 1]
+Target: 0
+Result: 0.10554
+Recent Error: 0.10554
+[0, 1]
+Target: 1
+Result: 0.921296
+Recent Error: 0.0787037
+[1, 1]
+Target: 0
+Result: -0.0369255
+Recent Error: 0.0369255
+[0, 0]
+Target: 1
+Result: 0.987678
+Recent Error: 0.0123224
+[0, 1]
+Target: 1
+Result: 0.933021
+Recent Error: 0.0669793
+[0, 1]
+Target: 1
+Result: 0.937758
+Recent Error: 0.0622423
+[1, 0]
+Target: 1
+Result: 0.93359
+Recent Error: 0.0664096
+[1, 1]
+Target: 0
+Result: 0.134629
+Recent Error: 0.134629
+[1, 0]
+Target: 1
+Result: 0.918823
+Recent Error: 0.0811774
+[1, 0]
+Target: 1
+Result: 0.924247
+Recent Error: 0.0757526
+[0, 1]
+Target: 1
+Result: 0.934932
+Recent Error: 0.0650679
+[1, 1]
+Target: 0
+Result: 0.0129398
+Recent Error: 0.0129398
+[0, 1]
+Target: 1
+Result: 0.938797
+Recent Error: 0.0612025
+[0, 0]
+Target: 1
+Result: 0.98982
+Recent Error: 0.0101801
+[0, 1]
+Target: 1
+Result: 0.943479
+Recent Error: 0.0565211
+[1, 1]
+Target: 0
+Result: 0.0567211
+Recent Error: 0.0567211
+[1, 1]
+Target: 0
+Result: -0.0406782
+Recent Error: 0.0406782
+[0, 0]
+Target: 1
+Result: 0.990109
+Recent Error: 0.00989052
+[0, 1]
+Target: 1
+Result: 0.945439
+Recent Error: 0.0545609
+[0, 1]
+Target: 1
+Result: 0.948715
+Recent Error: 0.0512853
+[0, 0]
+Target: 1
+Result: 0.990687
+Recent Error: 0.00931305
+[0, 1]
+Target: 1
+Result: 0.952362
+Recent Error: 0.0476379
+[0, 1]
+Target: 1
+Result: 0.9548
+Recent Error: 0.0452
+[0, 1]
+Target: 1
+Result: 0.957151
+Recent Error: 0.0428495
+[0, 0]
+Target: 1
+Result: 0.991382
+Recent Error: 0.00861838
+[0, 0]
+Target: 1
+Result: 0.99144
+Recent Error: 0.0085605
+[1, 1]
+Target: 0
+Result: 0.167186
+Recent Error: 0.167186
+[1, 1]
+Target: 0
+Result: -0.137592
+Recent Error: 0.137592
+[0, 1]
+Target: 1
+Result: 0.954586
+Recent Error: 0.0454136
+[1, 1]
+Target: 0
+Result: 0.113791
+Recent Error: 0.113791
+[1, 0]
+Target: 1
+Result: 0.930503
+Recent Error: 0.069497
+[0, 0]
+Target: 1
+Result: 0.991258
+Recent Error: 0.00874238
+[0, 1]
+Target: 1
+Result: 0.948313
+Recent Error: 0.051687
+[0, 0]
+Target: 1
+Result: 0.991543
+Recent Error: 0.00845734
+[0, 0]
+Target: 1
+Result: 0.991602
+Recent Error: 0.00839841
+[1, 0]
+Target: 1
+Result: 0.939067
+Recent Error: 0.0609332
+[1, 1]
+Target: 0
+Result: -0.00279051
+Recent Error: 0.00279051
+[0, 1]
+Target: 1
+Result: 0.955048
+Recent Error: 0.0449523
+[1, 0]
+Target: 1
+Result: 0.946426
+Recent Error: 0.0535744
+[1, 1]
+Target: 0
+Result: 0.0630296
+Recent Error: 0.0630296
+[0, 1]
+Target: 1
+Result: 0.953274
+Recent Error: 0.0467257
+[1, 1]
+Target: 0
+Result: -0.0428092
+Recent Error: 0.0428092
+[0, 0]
+Target: 1
+Result: 0.992428
+Recent Error: 0.00757221
+[0, 0]
+Target: 1
+Result: 0.992471
+Recent Error: 0.00752932
+[0, 0]
+Target: 1
+Result: 0.992505
+Recent Error: 0.0074954
+[1, 1]
+Target: 0
+Result: 0.0533153
+Recent Error: 0.0533153
+[0, 0]
+Target: 1
+Result: 0.992382
+Recent Error: 0.00761831
+[1, 0]
+Target: 1
+Result: 0.942969
+Recent Error: 0.0570308
+[1, 1]
+Target: 0
+Result: -0.0283393
+Recent Error: 0.0283393
+[1, 1]
+Target: 0
+Result: 0.0302746
+Recent Error: 0.0302746
+[1, 0]
+Target: 1
+Result: 0.947458
+Recent Error: 0.0525421
+[1, 0]
+Target: 1
+Result: 0.950527
+Recent Error: 0.0494734
+[0, 1]
+Target: 1
+Result: 0.960511
+Recent Error: 0.0394886
+[0, 1]
+Target: 1
+Result: 0.96245
+Recent Error: 0.0375498
+[0, 1]
+Target: 1
+Result: 0.964218
+Recent Error: 0.035782
+[0, 0]
+Target: 1
+Result: 0.993396
+Recent Error: 0.00660365
+[0, 1]
+Target: 1
+Result: 0.966098
+Recent Error: 0.0339019
+[0, 0]
+Target: 1
+Result: 0.993541
+Recent Error: 0.00645892
+[1, 0]
+Target: 1
+Result: 0.959993
+Recent Error: 0.0400075
+[0, 1]
+Target: 1
+Result: 0.968666
+Recent Error: 0.0313344
+[0, 0]
+Target: 1
+Result: 0.993803
+Recent Error: 0.00619665
+[0, 1]
+Target: 1
+Result: 0.970056
+Recent Error: 0.0299441
+[0, 1]
+Target: 1
+Result: 0.971046
+Recent Error: 0.0289543
+[1, 1]
+Target: 0
+Result: 0.204279
+Recent Error: 0.204279
+[0, 0]
+Target: 1
+Result: 0.993462
+Recent Error: 0.00653799
+[0, 0]
+Target: 1
+Result: 0.993423
+Recent Error: 0.00657651
+[1, 1]
+Target: 0
+Result: -0.250797
+Recent Error: 0.250797
+[0, 1]
+Target: 1
+Result: 0.97122
+Recent Error: 0.0287803
+[1, 0]
+Target: 1
+Result: 0.966455
+Recent Error: 0.033545
+[0, 1]
+Target: 1
+Result: 0.974198
+Recent Error: 0.0258025
+[1, 0]
+Target: 1
+Result: 0.96869
+Recent Error: 0.0313096
+[1, 1]
+Target: 0
+Result: 0.319241
+Recent Error: 0.319241
+[1, 1]
+Target: 0
+Result: -0.286734
+Recent Error: 0.286734
+[1, 0]
+Target: 1
+Result: 0.960815
+Recent Error: 0.0391846
+[0, 0]
+Target: 1
+Result: 0.993852
+Recent Error: 0.0061478
+[0, 0]
+Target: 1
+Result: 0.993886
+Recent Error: 0.00611407
+[0, 0]
+Target: 1
+Result: 0.993909
+Recent Error: 0.00609119
+[1, 0]
+Target: 1
+Result: 0.965127
+Recent Error: 0.0348726
+[0, 1]
+Target: 1
+Result: 0.972249
+Recent Error: 0.0277511
+[1, 0]
+Target: 1
+Result: 0.967332
+Recent Error: 0.0326678
+[1, 1]
+Target: 0
+Result: 0.26898
+Recent Error: 0.26898
+[0, 0]
+Target: 1
+Result: 0.993511
+Recent Error: 0.00648882
+[0, 1]
+Target: 1
+Result: 0.947413
+Recent Error: 0.0525865
+[1, 1]
+Target: 0
+Result: -0.269649
+Recent Error: 0.269649
+[1, 1]
+Target: 0
+Result: 0.195947
+Recent Error: 0.195947
+[0, 1]
+Target: 1
+Result: 0.957256
+Recent Error: 0.0427438
+[1, 0]
+Target: 1
+Result: 0.945278
+Recent Error: 0.054722
+[0, 0]
+Target: 1
+Result: 0.993806
+Recent Error: 0.00619397
+[1, 0]
+Target: 1
+Result: 0.94978
+Recent Error: 0.0502197
+[1, 1]
+Target: 0
+Result: -0.0876431
+Recent Error: 0.0876431
+[0, 1]
+Target: 1
+Result: 0.968745
+Recent Error: 0.0312554
+[0, 0]
+Target: 1
+Result: 0.994266
+Recent Error: 0.00573407
+[1, 1]
+Target: 0
+Result: 0.126217
+Recent Error: 0.126217
+[0, 1]
+Target: 1
+Result: 0.960378
+Recent Error: 0.0396218
+[0, 1]
+Target: 1
+Result: 0.961114
+Recent Error: 0.0388864
+[0, 0]
+Target: 1
+Result: 0.99421
+Recent Error: 0.00578981
+[0, 0]
+Target: 1
+Result: 0.994239
+Recent Error: 0.00576055
+[0, 0]
+Target: 1
+Result: 0.99426
+Recent Error: 0.00574007
+[1, 0]
+Target: 1
+Result: 0.953027
+Recent Error: 0.0469733
+[0, 1]
+Target: 1
+Result: 0.965123
+Recent Error: 0.0348772
+[1, 0]
+Target: 1
+Result: 0.957526
+Recent Error: 0.0424742
+[0, 1]
+Target: 1
+Result: 0.968058
+Recent Error: 0.0319415
+[0, 0]
+Target: 1
+Result: 0.994723
+Recent Error: 0.00527715
+[1, 0]
+Target: 1
+Result: 0.961553
+Recent Error: 0.0384465
+[0, 0]
+Target: 1
+Result: 0.994843
+Recent Error: 0.00515689
+[1, 0]
+Target: 1
+Result: 0.963767
+Recent Error: 0.0362327
+[1, 1]
+Target: 0
+Result: 0.0402826
+Recent Error: 0.0402826
+[0, 1]
+Target: 1
+Result: 0.968828
+Recent Error: 0.0311724
+[1, 0]
+Target: 1
+Result: 0.962422
+Recent Error: 0.037578
+[0, 1]
+Target: 1
+Result: 0.970749
+Recent Error: 0.0292506
+[1, 0]
+Target: 1
+Result: 0.965361
+Recent Error: 0.0346388
+[1, 1]
+Target: 0
+Result: 0.0298991
+Recent Error: 0.0298991
+[1, 0]
+Target: 1
+Result: 0.964455
+Recent Error: 0.0355449
+[0, 0]
+Target: 1
+Result: 0.995253
+Recent Error: 0.00474691
+[0, 0]
+Target: 1
+Result: 0.995273
+Recent Error: 0.00472742
+[1, 1]
+Target: 0
+Result: -0.0154582
+Recent Error: 0.0154582
+[0, 1]
+Target: 1
+Result: 0.972764
+Recent Error: 0.0272362
+[0, 1]
+Target: 1
+Result: 0.973754
+Recent Error: 0.0262464
+[0, 0]
+Target: 1
+Result: 0.995439
+Recent Error: 0.00456132
+[1, 0]
+Target: 1
+Result: 0.969343
+Recent Error: 0.0306565
+[0, 0]
+Target: 1
+Result: 0.995523
+Recent Error: 0.00447723
+[1, 0]
+Target: 1
+Result: 0.970746
+Recent Error: 0.0292542
+[0, 1]
+Target: 1
+Result: 0.976195
+Recent Error: 0.0238054
+[1, 1]
+Target: 0
+Result: 0.111964
+Recent Error: 0.111964
+[0, 1]
+Target: 1
+Result: 0.969226
+Recent Error: 0.0307742
+[0, 1]
+Target: 1
+Result: 0.969558
+Recent Error: 0.0304419
+[0, 0]
+Target: 1
+Result: 0.99559
+Recent Error: 0.00440967
+[1, 1]
+Target: 0
+Result: -0.127008
+Recent Error: 0.127008
+[0, 1]
+Target: 1
+Result: 0.97855
+Recent Error: 0.0214503
+[1, 0]
+Target: 1
+Result: 0.974951
+Recent Error: 0.0250486
+[1, 1]
+Target: 0
+Result: 0.20913
+Recent Error: 0.20913
+[1, 1]
+Target: 0
+Result: -0.2502
+Recent Error: 0.2502
+[0, 0]
+Target: 1
+Result: 0.995728
+Recent Error: 0.0042721
+[0, 0]
+Target: 1
+Result: 0.995756
+Recent Error: 0.0042438
+[0, 1]
+Target: 1
+Result: 0.980237
+Recent Error: 0.0197632
+[1, 0]
+Target: 1
+Result: 0.976423
+Recent Error: 0.0235773
+[0, 0]
+Target: 1
+Result: 0.995859
+Recent Error: 0.00414115
+[0, 0]
+Target: 1
+Result: 0.995873
+Recent Error: 0.00412716
+[1, 1]
+Target: 0
+Result: 0.273889
+Recent Error: 0.273889
+[1, 1]
+Target: 0
+Result: -0.299457
+Recent Error: 0.299457
+[1, 1]
+Target: 0
+Result: 0.185761
+Recent Error: 0.185761
+[1, 1]
+Target: 0
+Result: -0.160126
+Recent Error: 0.160126
+[1, 0]
+Target: 1
+Result: 0.971059
+Recent Error: 0.0289414
+[0, 1]
+Target: 1
+Result: 0.977473
+Recent Error: 0.0225268
+[1, 1]
+Target: 0
+Result: 0.186497
+Recent Error: 0.186497
+[1, 0]
+Target: 1
+Result: 0.956874
+Recent Error: 0.0431261
+[0, 1]
+Target: 1
+Result: 0.965021
+Recent Error: 0.034979
+[1, 1]
+Target: 0
+Result: -0.195857
+Recent Error: 0.195857
+[1, 0]
+Target: 1
+Result: 0.973904
+Recent Error: 0.0260962
+[1, 1]
+Target: 0
+Result: 0.241383
+Recent Error: 0.241383
+[1, 0]
+Target: 1
+Result: 0.954825
+Recent Error: 0.0451745
+[1, 1]
+Target: 0
+Result: -0.263754
+Recent Error: 0.263754
+[0, 0]
+Target: 1
+Result: 0.99557
+Recent Error: 0.00442992
+[1, 0]
+Target: 1
+Result: 0.975934
+Recent Error: 0.0240665
+[1, 0]
+Target: 1
+Result: 0.976705
+Recent Error: 0.0232947
+[1, 0]
+Target: 1
+Result: 0.977381
+Recent Error: 0.0226194
+[0, 0]
+Target: 1
+Result: 0.995753
+Recent Error: 0.00424673
+[1, 1]
+Target: 0
+Result: 0.305496
+Recent Error: 0.305496
+[0, 1]
+Target: 1
+Result: 0.959333
+Recent Error: 0.0406674
+[1, 1]
+Target: 0
+Result: -0.316716
+Recent Error: 0.316716
+[1, 0]
+Target: 1
+Result: 0.974174
+Recent Error: 0.0258258
+[1, 1]
+Target: 0
+Result: 0.273042
+Recent Error: 0.273042
+[1, 1]
+Target: 0
+Result: -0.241871
+Recent Error: 0.241871
+[0, 0]
+Target: 1
+Result: 0.995278
+Recent Error: 0.00472154
+[1, 0]
+Target: 1
+Result: 0.971978
+Recent Error: 0.0280217
+[1, 0]
+Target: 1
+Result: 0.97299
+Recent Error: 0.0270095
+[0, 1]
+Target: 1
+Result: 0.97659
+Recent Error: 0.0234099
+[0, 1]
+Target: 1
+Result: 0.977233
+Recent Error: 0.0227666
+[1, 1]
+Target: 0
+Result: 0.223247
+Recent Error: 0.223247
+[1, 0]
+Target: 1
+Result: 0.956671
+Recent Error: 0.0433292
+[0, 0]
+Target: 1
+Result: 0.995233
+Recent Error: 0.00476703
+[1, 0]
+Target: 1
+Result: 0.956887
+Recent Error: 0.0431133
+[1, 0]
+Target: 1
+Result: 0.95946
+Recent Error: 0.0405402
+[1, 1]
+Target: 0
+Result: -0.176858
+Recent Error: 0.176858
+[0, 0]
+Target: 1
+Result: 0.995613
+Recent Error: 0.00438676
+[1, 1]
+Target: 0
+Result: 0.186898
+Recent Error: 0.186898
+[1, 0]
+Target: 1
+Result: 0.961208
+Recent Error: 0.0387918
+[0, 0]
+Target: 1
+Result: 0.995408
+Recent Error: 0.0045915
+[1, 1]
+Target: 0
+Result: -0.19022
+Recent Error: 0.19022
+[1, 0]
+Target: 1
+Result: 0.974536
+Recent Error: 0.0254637
+[1, 0]
+Target: 1
+Result: 0.976186
+Recent Error: 0.0238143
+[1, 1]
+Target: 0
+Result: 0.219937
+Recent Error: 0.219937
+[1, 1]
+Target: 0
+Result: -0.202145
+Recent Error: 0.202145
+[0, 0]
+Target: 1
+Result: 0.995522
+Recent Error: 0.00447813
+[0, 1]
+Target: 1
+Result: 0.974959
+Recent Error: 0.0250411
+[1, 0]
+Target: 1
+Result: 0.97483
+Recent Error: 0.0251702
+[0, 0]
+Target: 1
+Result: 0.995653
+Recent Error: 0.00434731
+[0, 1]
+Target: 1
+Result: 0.976401
+Recent Error: 0.0235992
+[0, 0]
+Target: 1
+Result: 0.995716
+Recent Error: 0.00428423
+[0, 0]
+Target: 1
+Result: 0.99573
+Recent Error: 0.00426993
+[0, 1]
+Target: 1
+Result: 0.977216
+Recent Error: 0.0227842
+[1, 1]
+Target: 0
+Result: 0.204748
+Recent Error: 0.204748
+[0, 0]
+Target: 1
+Result: 0.995493
+Recent Error: 0.00450704
+[0, 1]
+Target: 1
+Result: 0.961988
+Recent Error: 0.0380119
+[1, 1]
+Target: 0
+Result: -0.209527
+Recent Error: 0.209527
+[0, 0]
+Target: 1
+Result: 0.995718
+Recent Error: 0.0042816
+[1, 1]
+Target: 0
+Result: 0.200661
+Recent Error: 0.200661
+[1, 1]
+Target: 0
+Result: -0.178582
+Recent Error: 0.178582
+[0, 0]
+Target: 1
+Result: 0.995579
+Recent Error: 0.0044214
+[1, 0]
+Target: 1
+Result: 0.973526
+Recent Error: 0.0264737
+[1, 0]
+Target: 1
+Result: 0.974412
+Recent Error: 0.0255878
+[1, 1]
+Target: 0
+Result: 0.159729
+Recent Error: 0.159729
+[0, 1]
+Target: 1
+Result: 0.965548
+Recent Error: 0.0344516
+[0, 1]
+Target: 1
+Result: 0.965738
+Recent Error: 0.0342625
+[1, 1]
+Target: 0
+Result: -0.139814
+Recent Error: 0.139814
+[1, 0]
+Target: 1
+Result: 0.973997
+Recent Error: 0.0260027
+[0, 1]
+Target: 1
+Result: 0.977029
+Recent Error: 0.0229706
+[1, 0]
+Target: 1
+Result: 0.97607
+Recent Error: 0.0239301
+[1, 1]
+Target: 0
+Result: 0.187331
+Recent Error: 0.187331
+[0, 0]
+Target: 1
+Result: 0.995661
+Recent Error: 0.00433917
+[0, 0]
+Target: 1
+Result: 0.995644
+Recent Error: 0.00435585
+[0, 0]
+Target: 1
+Result: 0.995652
+Recent Error: 0.00434753
+[1, 1]
+Target: 0
+Result: -0.206848
+Recent Error: 0.206848
+[1, 1]
+Target: 0
+Result: 0.153449
+Recent Error: 0.153449
+[1, 0]
+Target: 1
+Result: 0.966062
+Recent Error: 0.0339379
+[1, 1]
+Target: 0
+Result: -0.111905
+Recent Error: 0.111905
+[1, 0]
+Target: 1
+Result: 0.973831
+Recent Error: 0.0261685
+[0, 1]
+Target: 1
+Result: 0.97614
+Recent Error: 0.0238597
+[0, 1]
+Target: 1
+Result: 0.97688
+Recent Error: 0.0231195
+[0, 1]
+Target: 1
+Result: 0.977548
+Recent Error: 0.0224523
+[0, 0]
+Target: 1
+Result: 0.995982
+Recent Error: 0.00401767
+[1, 0]
+Target: 1
+Result: 0.976837
+Recent Error: 0.0231631
+[1, 1]
+Target: 0
+Result: 0.183106
+Recent Error: 0.183106
+[1, 0]
+Target: 1
+Result: 0.965002
+Recent Error: 0.0349979
+[0, 1]
+Target: 1
+Result: 0.96662
+Recent Error: 0.0333797
+[0, 1]
+Target: 1
+Result: 0.968042
+Recent Error: 0.0319584
+[1, 0]
+Target: 1
+Result: 0.967081
+Recent Error: 0.0329186
+[1, 0]
+Target: 1
+Result: 0.968618
+Recent Error: 0.031382
+[1, 0]
+Target: 1
+Result: 0.970056
+Recent Error: 0.0299443
+[1, 1]
+Target: 0
+Result: -0.0942574
+Recent Error: 0.0942574
+[0, 0]
+Target: 1
+Result: 0.996253
+Recent Error: 0.00374747
+[0, 1]
+Target: 1
+Result: 0.978137
+Recent Error: 0.0218632
+[1, 0]
+Target: 1
+Result: 0.977987
+Recent Error: 0.0220134
+[1, 1]
+Target: 0
+Result: 0.136572
+Recent Error: 0.136572
+[1, 1]
+Target: 0
+Result: -0.136959
+Recent Error: 0.136959
+[0, 1]
+Target: 1
+Result: 0.977901
+Recent Error: 0.0220991
+[1, 0]
+Target: 1
+Result: 0.978273
+Recent Error: 0.0217272
+[0, 0]
+Target: 1
+Result: 0.996369
+Recent Error: 0.00363054
+[1, 1]
+Target: 0
+Result: 0.147952
+Recent Error: 0.147952
+[0, 1]
+Target: 1
+Result: 0.970692
+Recent Error: 0.0293079
+[0, 0]
+Target: 1
+Result: 0.996253
+Recent Error: 0.00374698
+[0, 1]
+Target: 1
+Result: 0.970795
+Recent Error: 0.0292053
+[0, 1]
+Target: 1
+Result: 0.97193
+Recent Error: 0.0280697
+[1, 0]
+Target: 1
+Result: 0.971036
+Recent Error: 0.0289642
+[1, 0]
+Target: 1
+Result: 0.972228
+Recent Error: 0.0277716
+[1, 0]
+Target: 1
+Result: 0.973358
+Recent Error: 0.0266422
+[0, 1]
+Target: 1
+Result: 0.975197
+Recent Error: 0.0248031
+[1, 1]
+Target: 0
+Result: -0.0655173
+Recent Error: 0.0655173
+[1, 0]
+Target: 1
+Result: 0.978689
+Recent Error: 0.0213114
+[0, 1]
+Target: 1
+Result: 0.980184
+Recent Error: 0.0198163
+[0, 1]
+Target: 1
+Result: 0.980709
+Recent Error: 0.0192907
+[0, 1]
+Target: 1
+Result: 0.981196
+Recent Error: 0.0188039
+[1, 0]
+Target: 1
+Result: 0.980633
+Recent Error: 0.0193669
+[0, 0]
+Target: 1
+Result: 0.996778
+Recent Error: 0.00322212
+[1, 0]
+Target: 1
+Result: 0.981193
+Recent Error: 0.0188074
+[1, 1]
+Target: 0
+Result: 0.155332
+Recent Error: 0.155332
+[1, 0]
+Target: 1
+Result: 0.972715
+Recent Error: 0.0272847
+[0, 1]
+Target: 1
+Result: 0.973425
+Recent Error: 0.0265752
+[1, 1]
+Target: 0
+Result: -0.173036
+Recent Error: 0.173036
+[1, 1]
+Target: 0
+Result: 0.168475
+Recent Error: 0.168475
+[1, 0]
+Target: 1
+Result: 0.973456
+Recent Error: 0.0265437
+[1, 0]
+Target: 1
+Result: 0.973334
+Recent Error: 0.0266662
+[1, 0]
+Target: 1
+Result: 0.974292
+Recent Error: 0.0257079
+[1, 1]
+Target: 0
+Result: -0.138318
+Recent Error: 0.138318
+[1, 0]
+Target: 1
+Result: 0.98208
+Recent Error: 0.0179195
+[0, 1]
+Target: 1
+Result: 0.98286
+Recent Error: 0.0171399
+[1, 0]
+Target: 1
+Result: 0.983284
+Recent Error: 0.016716
+[0, 0]
+Target: 1
+Result: 0.996961
+Recent Error: 0.00303898
+[1, 0]
+Target: 1
+Result: 0.983698
+Recent Error: 0.0163015
+[0, 0]
+Target: 1
+Result: 0.996992
+Recent Error: 0.00300847
+[1, 1]
+Target: 0
+Result: 0.214386
+Recent Error: 0.214386
+[0, 0]
+Target: 1
+Result: 0.996795
+Recent Error: 0.00320534
+[1, 0]
+Target: 1
+Result: 0.970884
+Recent Error: 0.0291155
+[1, 1]
+Target: 0
+Result: -0.257865
+Recent Error: 0.257865
+[0, 1]
+Target: 1
+Result: 0.983309
+Recent Error: 0.0166906
+[0, 1]
+Target: 1
+Result: 0.9844
+Recent Error: 0.0156003
+[1, 1]
+Target: 0
+Result: 0.283724
+Recent Error: 0.283724
+[1, 1]
+Target: 0
+Result: -0.272792
+Recent Error: 0.272792
+[1, 1]
+Target: 0
+Result: 0.143897
+Recent Error: 0.143897
+[0, 0]
+Target: 1
+Result: 0.996661
+Recent Error: 0.00333868
+[1, 0]
+Target: 1
+Result: 0.974407
+Recent Error: 0.025593
+[1, 0]
+Target: 1
+Result: 0.975192
+Recent Error: 0.0248075
+[0, 0]
+Target: 1
+Result: 0.996732
+Recent Error: 0.00326763
+[0, 1]
+Target: 1
+Result: 0.975174
+Recent Error: 0.0248258
+[0, 0]
+Target: 1
+Result: 0.996779
+Recent Error: 0.00322105
+[0, 1]
+Target: 1
+Result: 0.97612
+Recent Error: 0.0238799
+[1, 0]
+Target: 1
+Result: 0.9773
+Recent Error: 0.0227002
+[1, 1]
+Target: 0
+Result: -0.059785
+Recent Error: 0.059785
+[0, 1]
+Target: 1
+Result: 0.980408
+Recent Error: 0.0195919
+[0, 0]
+Target: 1
+Result: 0.99693
+Recent Error: 0.00306963
+[0, 0]
+Target: 1
+Result: 0.996938
+Recent Error: 0.00306161
+[0, 1]
+Target: 1
+Result: 0.981287
+Recent Error: 0.0187127
+[1, 1]
+Target: 0
+Result: 0.0989302
+Recent Error: 0.0989302
+[0, 0]
+Target: 1
+Result: 0.996895
+Recent Error: 0.00310488
+[0, 0]
+Target: 1
+Result: 0.996892
+Recent Error: 0.00310766
+[1, 1]
+Target: 0
+Result: -0.126426
+Recent Error: 0.126426
+[0, 0]
+Target: 1
+Result: 0.996964
+Recent Error: 0.00303595
+[1, 1]
+Target: 0
+Result: 0.148008
+Recent Error: 0.148008
+[0, 1]
+Target: 1
+Result: 0.974931
+Recent Error: 0.0250692
+[0, 1]
+Target: 1
+Result: 0.974818
+Recent Error: 0.0251816
+[1, 0]
+Target: 1
+Result: 0.975307
+Recent Error: 0.0246928
+[0, 1]
+Target: 1
+Result: 0.976278
+Recent Error: 0.023722
+[0, 0]
+Target: 1
+Result: 0.996986
+Recent Error: 0.00301372
+[0, 1]
+Target: 1
+Result: 0.977213
+Recent Error: 0.0227873
+[1, 0]
+Target: 1
+Result: 0.977332
+Recent Error: 0.0226679
+[1, 1]
+Target: 0
+Result: -0.100261
+Recent Error: 0.100261
+[0, 1]
+Target: 1
+Result: 0.98294
+Recent Error: 0.0170601
+[0, 1]
+Target: 1
+Result: 0.983653
+Recent Error: 0.0163473
+[1, 1]
+Target: 0
+Result: 0.146993
+Recent Error: 0.146993
+[1, 1]
+Target: 0
+Result: -0.159913
+Recent Error: 0.159913
+[1, 0]
+Target: 1
+Result: 0.982839
+Recent Error: 0.0171611
+[1, 0]
+Target: 1
+Result: 0.983688
+Recent Error: 0.016312
+[1, 0]
+Target: 1
+Result: 0.984077
+Recent Error: 0.0159226
+[1, 1]
+Target: 0
+Result: 0.182032
+Recent Error: 0.182032
+[0, 1]
+Target: 1
+Result: 0.975589
+Recent Error: 0.0244115
+[0, 1]
+Target: 1
+Result: 0.975219
+Recent Error: 0.024781
+[0, 1]
+Target: 1
+Result: 0.97604
+Recent Error: 0.0239596
+[0, 0]
+Target: 1
+Result: 0.997132
+Recent Error: 0.00286783
+[1, 0]
+Target: 1
+Result: 0.975896
+Recent Error: 0.0241037
+[1, 0]
+Target: 1
+Result: 0.976717
+Recent Error: 0.0232829
+[0, 1]
+Target: 1
+Result: 0.97807
+Recent Error: 0.0219304
+[1, 0]
+Target: 1
+Result: 0.978065
+Recent Error: 0.0219353
+[0, 1]
+Target: 1
+Result: 0.979256
+Recent Error: 0.020744
+[1, 1]
+Target: 0
+Result: -0.123579
+Recent Error: 0.123579
+[0, 1]
+Target: 1
+Result: 0.984934
+Recent Error: 0.0150661
+[1, 0]
+Target: 1
+Result: 0.985083
+Recent Error: 0.014917
+[1, 0]
+Target: 1
+Result: 0.985401
+Recent Error: 0.0145986
+[0, 0]
+Target: 1
+Result: 0.997413
+Recent Error: 0.0025871
+[0, 1]
+Target: 1
+Result: 0.986054
+Recent Error: 0.0139459
+[0, 0]
+Target: 1
+Result: 0.997435
+Recent Error: 0.00256494
+[0, 0]
+Target: 1
+Result: 0.99744
+Recent Error: 0.00255981
+[0, 0]
+Target: 1
+Result: 0.997444
+Recent Error: 0.00255586
+[1, 0]
+Target: 1
+Result: 0.985983
+Recent Error: 0.0140174
+[1, 0]
+Target: 1
+Result: 0.986213
+Recent Error: 0.013787
+[1, 0]
+Target: 1
+Result: 0.986455
+Recent Error: 0.0135449
+[0, 1]
+Target: 1
+Result: 0.986846
+Recent Error: 0.0131542
+[1, 1]
+Target: 0
+Result: 0.229988
+Recent Error: 0.229988
+[0, 0]
+Target: 1
+Result: 0.997347
+Recent Error: 0.0026526
+[1, 1]
+Target: 0
+Result: -0.295658
+Recent Error: 0.295658
+[1, 1]
+Target: 0
+Result: 0.226683
+Recent Error: 0.226683
+[0, 0]
+Target: 1
+Result: 0.997244
+Recent Error: 0.00275574
+[1, 0]
+Target: 1
+Result: 0.975732
+Recent Error: 0.0242676
+[0, 1]
+Target: 1
+Result: 0.976613
+Recent Error: 0.0233872
+[0, 1]
+Target: 1
+Result: 0.977421
+Recent Error: 0.022579
+[0, 0]
+Target: 1
+Result: 0.997321
+Recent Error: 0.00267922
+[1, 1]
+Target: 0
+Result: -0.190127
+Recent Error: 0.190127
+[1, 1]
+Target: 0
+Result: 0.177178
+Recent Error: 0.177178
+[1, 0]
+Target: 1
+Result: 0.978084
+Recent Error: 0.0219157
+[0, 0]
+Target: 1
+Result: 0.997292
+Recent Error: 0.00270842
+[1, 1]
+Target: 0
+Result: -0.176022
+Recent Error: 0.176022
+[1, 1]
+Target: 0
+Result: 0.162558
+Recent Error: 0.162558
+[0, 0]
+Target: 1
+Result: 0.997255
+Recent Error: 0.00274462
+[1, 0]
+Target: 1
+Result: 0.977566
+Recent Error: 0.0224337
+[0, 0]
+Target: 1
+Result: 0.997275
+Recent Error: 0.0027251
+[0, 0]
+Target: 1
+Result: 0.997281
+Recent Error: 0.00271854
+[1, 0]
+Target: 1
+Result: 0.978317
+Recent Error: 0.0216826
+[0, 1]
+Target: 1
+Result: 0.978889
+Recent Error: 0.0211109
+[0, 1]
+Target: 1
+Result: 0.979532
+Recent Error: 0.0204679
+[0, 1]
+Target: 1
+Result: 0.980156
+Recent Error: 0.019844
+[0, 1]
+Target: 1
+Result: 0.980741
+Recent Error: 0.0192593
+[1, 1]
+Target: 0
+Result: -0.0980681
+Recent Error: 0.0980681
+[0, 0]
+Target: 1
+Result: 0.99746
+Recent Error: 0.00254005
+[1, 1]
+Target: 0
+Result: 0.124163
+Recent Error: 0.124163
+[1, 1]
+Target: 0
+Result: -0.134938
+Recent Error: 0.134938
+[0, 0]
+Target: 1
+Result: 0.997435
+Recent Error: 0.00256542
+[0, 1]
+Target: 1
+Result: 0.985407
+Recent Error: 0.0145926
+[1, 0]
+Target: 1
+Result: 0.985118
+Recent Error: 0.0148823
+[1, 0]
+Target: 1
+Result: 0.9854
+Recent Error: 0.0145995
+[1, 0]
+Target: 1
+Result: 0.985679
+Recent Error: 0.0143213
+[0, 1]
+Target: 1
+Result: 0.986249
+Recent Error: 0.0137509
+[0, 0]
+Target: 1
+Result: 0.997531
+Recent Error: 0.00246915
+[1, 0]
+Target: 1
+Result: 0.986163
+Recent Error: 0.0138369
+[1, 0]
+Target: 1
+Result: 0.98639
+Recent Error: 0.0136103
+[1, 1]
+Target: 0
+Result: 0.192983
+Recent Error: 0.192983
+[1, 1]
+Target: 0
+Result: -0.207536
+Recent Error: 0.207536
+[0, 0]
+Target: 1
+Result: 0.997493
+Recent Error: 0.0025073
+[1, 0]
+Target: 1
+Result: 0.986048
+Recent Error: 0.0139523
+[1, 0]
+Target: 1
+Result: 0.986324
+Recent Error: 0.0136755
+[0, 0]
+Target: 1
+Result: 0.997533
+Recent Error: 0.00246695
+[1, 0]
+Target: 1
+Result: 0.98661
+Recent Error: 0.0133898
+[0, 1]
+Target: 1
+Result: 0.986802
+Recent Error: 0.0131976
+[1, 1]
+Target: 0
+Result: 0.215509
+Recent Error: 0.215509
+[1, 0]
+Target: 1
+Result: 0.977671
+Recent Error: 0.022329
+[0, 0]
+Target: 1
+Result: 0.997442
+Recent Error: 0.00255834
+[0, 0]
+Target: 1
+Result: 0.997446
+Recent Error: 0.00255384
+[1, 0]
+Target: 1
+Result: 0.977067
+Recent Error: 0.022933
+[0, 1]
+Target: 1
+Result: 0.977366
+Recent Error: 0.022634
+[1, 1]
+Target: 0
+Result: -0.229859
+Recent Error: 0.229859
+[1, 0]
+Target: 1
+Result: 0.986771
+Recent Error: 0.0132293
+[1, 0]
+Target: 1
+Result: 0.987526
+Recent Error: 0.0124743
+[0, 1]
+Target: 1
+Result: 0.987563
+Recent Error: 0.0124366
+[0, 1]
+Target: 1
+Result: 0.987754
+Recent Error: 0.0122461
+[0, 1]
+Target: 1
+Result: 0.987939
+Recent Error: 0.0120612
+[1, 0]
+Target: 1
+Result: 0.988157
+Recent Error: 0.0118427
+[1, 0]
+Target: 1
+Result: 0.988324
+Recent Error: 0.0116765
+[0, 1]
+Target: 1
+Result: 0.988358
+Recent Error: 0.0116421
+[1, 1]
+Target: 0
+Result: 0.299945
+Recent Error: 0.299945
+[1, 0]
+Target: 1
+Result: 0.976175
+Recent Error: 0.0238254
+[1, 1]
+Target: 0
+Result: -0.325035
+Recent Error: 0.325035
+[1, 0]
+Target: 1
+Result: 0.986727
+Recent Error: 0.0132729
+[1, 0]
+Target: 1
+Result: 0.987614
+Recent Error: 0.0123861
+[0, 0]
+Target: 1
+Result: 0.997569
+Recent Error: 0.00243088
+[1, 1]
+Target: 0
+Result: 0.279079
+Recent Error: 0.279079
+[1, 0]
+Target: 1
+Result: 0.976422
+Recent Error: 0.0235776
+[0, 0]
+Target: 1
+Result: 0.9974
+Recent Error: 0.00259997
+[0, 0]
+Target: 1
+Result: 0.997404
+Recent Error: 0.00259571
+[0, 1]
+Target: 1
+Result: 0.974136
+Recent Error: 0.0258644
+[1, 0]
+Target: 1
+Result: 0.976012
+Recent Error: 0.0239882
+[0, 0]
+Target: 1
+Result: 0.997468
+Recent Error: 0.00253249
+[0, 0]
+Target: 1
+Result: 0.997474
+Recent Error: 0.00252616
+[0, 0]
+Target: 1
+Result: 0.997478
+Recent Error: 0.00252215
+[1, 1]
+Target: 0
+Result: -0.265679
+Recent Error: 0.265679
+[1, 0]
+Target: 1
+Result: 0.986594
+Recent Error: 0.0134064
+[1, 0]
+Target: 1
+Result: 0.987399
+Recent Error: 0.0126011
+[1, 0]
+Target: 1
+Result: 0.987648
+Recent Error: 0.0123519
+[0, 1]
+Target: 1
+Result: 0.987176
+Recent Error: 0.0128237
+[1, 1]
+Target: 0
+Result: 0.267899
+Recent Error: 0.267899
+[1, 0]
+Target: 1
+Result: 0.97736
+Recent Error: 0.0226398
+[0, 0]
+Target: 1
+Result: 0.997436
+Recent Error: 0.00256406
+[1, 0]
+Target: 1
+Result: 0.976416
+Recent Error: 0.0235842
+[1, 1]
+Target: 0
+Result: -0.266379
+Recent Error: 0.266379
+[0, 1]
+Target: 1
+Result: 0.985568
+Recent Error: 0.0144316
+[0, 1]
+Target: 1
+Result: 0.986468
+Recent Error: 0.0135316
+[1, 1]
+Target: 0
+Result: 0.246353
+Recent Error: 0.246353
+[1, 1]
+Target: 0
+Result: -0.215099
+Recent Error: 0.215099
+[1, 1]
+Target: 0
+Result: 0.105195
+Recent Error: 0.105195
+[1, 0]
+Target: 1
+Result: 0.981475
+Recent Error: 0.0185251
+[0, 0]
+Target: 1
+Result: 0.997398
+Recent Error: 0.00260171
+[1, 0]
+Target: 1
+Result: 0.981555
+Recent Error: 0.0184451
+[0, 0]
+Target: 1
+Result: 0.997425
+Recent Error: 0.00257527
+[0, 1]
+Target: 1
+Result: 0.980456
+Recent Error: 0.0195444
+[1, 1]
+Target: 0
+Result: -0.0512741
+Recent Error: 0.0512741
+[0, 0]
+Target: 1
+Result: 0.997472
+Recent Error: 0.0025281
+[0, 0]
+Target: 1
+Result: 0.997477
+Recent Error: 0.00252288
+[1, 1]
+Target: 0
+Result: 0.0577224
+Recent Error: 0.0577224
+[1, 0]
+Target: 1
+Result: 0.982332
+Recent Error: 0.0176684
+[0, 1]
+Target: 1
+Result: 0.980962
+Recent Error: 0.0190376
+[1, 1]
+Target: 0
+Result: -0.0460433
+Recent Error: 0.0460433
+[1, 0]
+Target: 1
+Result: 0.98448
+Recent Error: 0.0155195
+[0, 0]
+Target: 1
+Result: 0.997532
+Recent Error: 0.00246801
+[1, 1]
+Target: 0
+Result: 0.0610338
+Recent Error: 0.0610338
+[0, 0]
+Target: 1
+Result: 0.997511
+Recent Error: 0.00248851
+[1, 0]
+Target: 1
+Result: 0.982508
+Recent Error: 0.0174917
+[0, 0]
+Target: 1
+Result: 0.997531
+Recent Error: 0.0024689
+[0, 0]
+Target: 1
+Result: 0.997536
+Recent Error: 0.00246382
+[1, 1]
+Target: 0
+Result: -0.0599521
+Recent Error: 0.0599521
+[1, 0]
+Target: 1
+Result: 0.985082
+Recent Error: 0.0149182
+[0, 1]
+Target: 1
+Result: 0.984138
+Recent Error: 0.0158623
+[1, 0]
+Target: 1
+Result: 0.985759
+Recent Error: 0.0142407
+[0, 0]
+Target: 1
+Result: 0.997612
+Recent Error: 0.00238783
+[1, 1]
+Target: 0
+Result: 0.0925221
+Recent Error: 0.0925221
+[0, 0]
+Target: 1
+Result: 0.997577
+Recent Error: 0.00242338
+[0, 1]
+Target: 1
+Result: 0.980516
+Recent Error: 0.0194844
+[1, 1]
+Target: 0
+Result: -0.0982311
+Recent Error: 0.0982311
+[1, 1]
+Target: 0
+Result: 0.0882836
+Recent Error: 0.0882836
+[0, 0]
+Target: 1
+Result: 0.99759
+Recent Error: 0.00241049
+[0, 0]
+Target: 1
+Result: 0.997589
+Recent Error: 0.00241109
+[0, 1]
+Target: 1
+Result: 0.981286
+Recent Error: 0.0187143
+[0, 0]
+Target: 1
+Result: 0.997612
+Recent Error: 0.00238837
+[0, 1]
+Target: 1
+Result: 0.98182
+Recent Error: 0.0181801
+[0, 1]
+Target: 1
+Result: 0.982261
+Recent Error: 0.0177393
+[0, 0]
+Target: 1
+Result: 0.997656
+Recent Error: 0.00234417
+[1, 0]
+Target: 1
+Result: 0.983782
+Recent Error: 0.0162178
+[1, 0]
+Target: 1
+Result: 0.984121
+Recent Error: 0.0158788
+[1, 1]
+Target: 0
+Result: -0.0345779
+Recent Error: 0.0345779
+[0, 0]
+Target: 1
+Result: 0.997708
+Recent Error: 0.00229181
+[0, 0]
+Target: 1
+Result: 0.997712
+Recent Error: 0.00228782
+[0, 1]
+Target: 1
+Result: 0.984778
+Recent Error: 0.0152224
+[1, 1]
+Target: 0
+Result: 0.0505265
+Recent Error: 0.0505265
+[0, 0]
+Target: 1
+Result: 0.997713
+Recent Error: 0.00228706
+[0, 0]
+Target: 1
+Result: 0.997714
+Recent Error: 0.00228614
+[0, 0]
+Target: 1
+Result: 0.997717
+Recent Error: 0.00228331
+[0, 0]
+Target: 1
+Result: 0.99772
+Recent Error: 0.00228029
+[0, 1]
+Target: 1
+Result: 0.983048
+Recent Error: 0.016952
+[0, 0]
+Target: 1
+Result: 0.99774
+Recent Error: 0.00226023
+[0, 1]
+Target: 1
+Result: 0.983488
+Recent Error: 0.0165125
+[1, 0]
+Target: 1
+Result: 0.984667
+Recent Error: 0.0153328
+[1, 0]
+Target: 1
+Result: 0.984988
+Recent Error: 0.0150123
+[0, 0]
+Target: 1
+Result: 0.997794
+Recent Error: 0.0022064
+[1, 1]
+Target: 0
+Result: -0.023067
+Recent Error: 0.023067
+[0, 1]
+Target: 1
+Result: 0.985198
+Recent Error: 0.0148019
+[0, 0]
+Target: 1
+Result: 0.99782
+Recent Error: 0.0021797
+[0, 0]
+Target: 1
+Result: 0.997824
+Recent Error: 0.00217573
+[1, 1]
+Target: 0
+Result: 0.0377562
+Recent Error: 0.0377562
+[0, 0]
+Target: 1
+Result: 0.997814
+Recent Error: 0.00218608
+[0, 0]
+Target: 1
+Result: 0.997815
+Recent Error: 0.00218492
+[0, 0]
+Target: 1
+Result: 0.997818
+Recent Error: 0.0021823
+[1, 1]
+Target: 0
+Result: -0.0470219
+Recent Error: 0.0470219
+[1, 1]
+Target: 0
+Result: 0.0473168
+Recent Error: 0.0473168
+[0, 1]
+Target: 1
+Result: 0.984275
+Recent Error: 0.0157255
+[1, 0]
+Target: 1
+Result: 0.98522
+Recent Error: 0.0147802
+[0, 0]
+Target: 1
+Result: 0.997847
+Recent Error: 0.00215273
+[0, 1]
+Target: 1
+Result: 0.984686
+Recent Error: 0.0153138
+[0, 0]
+Target: 1
+Result: 0.997866
+Recent Error: 0.00213406
+[0, 1]
+Target: 1
+Result: 0.985045
+Recent Error: 0.014955
+[0, 0]
+Target: 1
+Result: 0.997884
+Recent Error: 0.00211594
+[1, 0]
+Target: 1
+Result: 0.986001
+Recent Error: 0.013999
+[0, 1]
+Target: 1
+Result: 0.985565
+Recent Error: 0.0144354
+[0, 0]
+Target: 1
+Result: 0.997916
+Recent Error: 0.0020843
+[0, 0]
+Target: 1
+Result: 0.997919
+Recent Error: 0.00208057
+[0, 0]
+Target: 1
+Result: 0.997922
+Recent Error: 0.00207793
+[1, 0]
+Target: 1
+Result: 0.986521
+Recent Error: 0.0134786
+[1, 0]
+Target: 1
+Result: 0.986752
+Recent Error: 0.0132485
+[1, 0]
+Target: 1
+Result: 0.986993
+Recent Error: 0.0130066
+[1, 1]
+Target: 0
+Result: 0.0263443
+Recent Error: 0.0263443
+[1, 0]
+Target: 1
+Result: 0.98642
+Recent Error: 0.01358
+[1, 0]
+Target: 1
+Result: 0.986572
+Recent Error: 0.0134278
+[0, 1]
+Target: 1
+Result: 0.985798
+Recent Error: 0.0142021
+[1, 0]
+Target: 1
+Result: 0.986999
+Recent Error: 0.0130006
+[0, 1]
+Target: 1
+Result: 0.986259
+Recent Error: 0.0137414
+[0, 0]
+Target: 1
+Result: 0.998021
+Recent Error: 0.00197947
+[1, 1]
+Target: 0
+Result: 0.00629623
+Recent Error: 0.00629623
+[0, 0]
+Target: 1
+Result: 0.998022
+Recent Error: 0.00197767
+[0, 0]
+Target: 1
+Result: 0.998024
+Recent Error: 0.00197577
+[0, 0]
+Target: 1
+Result: 0.998026
+Recent Error: 0.00197353
+[1, 0]
+Target: 1
+Result: 0.987277
+Recent Error: 0.0127233
+[1, 0]
+Target: 1
+Result: 0.987483
+Recent Error: 0.0125167
+[0, 0]
+Target: 1
+Result: 0.998052
+Recent Error: 0.00194805
+[0, 0]
+Target: 1
+Result: 0.998055
+Recent Error: 0.00194487
+[0, 1]
+Target: 1
+Result: 0.986748
+Recent Error: 0.0132517
+[1, 1]
+Target: 0
+Result: 0.0148512
+Recent Error: 0.0148512
+[1, 1]
+Target: 0
+Result: -0.0162163
+Recent Error: 0.0162163
+[1, 1]
+Target: 0
+Result: 0.015182
+Recent Error: 0.015182
+[0, 1]
+Target: 1
+Result: 0.986542
+Recent Error: 0.0134578
+[1, 0]
+Target: 1
+Result: 0.987596
+Recent Error: 0.0124039
+[0, 1]
+Target: 1
+Result: 0.986893
+Recent Error: 0.0131071
+[0, 0]
+Target: 1
+Result: 0.9981
+Recent Error: 0.00189968
+[0, 0]
+Target: 1
+Result: 0.998103
+Recent Error: 0.00189658
+[0, 0]
+Target: 1
+Result: 0.998106
+Recent Error: 0.00189437
+[1, 0]
+Target: 1
+Result: 0.988021
+Recent Error: 0.011979
+[1, 0]
+Target: 1
+Result: 0.988204
+Recent Error: 0.0117962
+[0, 0]
+Target: 1
+Result: 0.998129
+Recent Error: 0.00187122
+[0, 0]
+Target: 1
+Result: 0.998132
+Recent Error: 0.0018683
+[0, 0]
+Target: 1
+Result: 0.998134
+Recent Error: 0.00186617
+[0, 0]
+Target: 1
+Result: 0.998136
+Recent Error: 0.00186412
+[1, 0]
+Target: 1
+Result: 0.988477
+Recent Error: 0.0115227
+[1, 0]
+Target: 1
+Result: 0.988645
+Recent Error: 0.0113549
+[1, 1]
+Target: 0
+Result: 0.0348599
+Recent Error: 0.0348599
+[1, 1]
+Target: 0
+Result: -0.0406967
+Recent Error: 0.0406967
+[0, 0]
+Target: 1
+Result: 0.998158
+Recent Error: 0.0018423
+[0, 0]
+Target: 1
+Result: 0.99816
+Recent Error: 0.00183959
+[0, 0]
+Target: 1
+Result: 0.998162
+Recent Error: 0.00183754
+[0, 0]
+Target: 1
+Result: 0.998164
+Recent Error: 0.00183556
+[1, 0]
+Target: 1
+Result: 0.989037
+Recent Error: 0.0109634
+[1, 0]
+Target: 1
+Result: 0.989187
+Recent Error: 0.0108135
+[0, 0]
+Target: 1
+Result: 0.998185
+Recent Error: 0.00181482
+[0, 0]
+Target: 1
+Result: 0.998188
+Recent Error: 0.00181213
+[0, 0]
+Target: 1
+Result: 0.99819
+Recent Error: 0.00181013
+[1, 0]
+Target: 1
+Result: 0.989402
+Recent Error: 0.0105981
+[0, 1]
+Target: 1
+Result: 0.988437
+Recent Error: 0.0115635
+[0, 1]
+Target: 1
+Result: 0.988617
+Recent Error: 0.0113832
+[1, 1]
+Target: 0
+Result: 0.082903
+Recent Error: 0.082903
+[1, 0]
+Target: 1
+Result: 0.987417
+Recent Error: 0.0125831
+[0, 0]
+Target: 1
+Result: 0.998202
+Recent Error: 0.00179823
+[0, 0]
+Target: 1
+Result: 0.998204
+Recent Error: 0.00179579
+[0, 0]
+Target: 1
+Result: 0.998206
+Recent Error: 0.00179384
+[1, 0]
+Target: 1
+Result: 0.9874
+Recent Error: 0.0126
+[0, 1]
+Target: 1
+Result: 0.986177
+Recent Error: 0.0138225
+[1, 1]
+Target: 0
+Result: -0.0962935
+Recent Error: 0.0962935
+[0, 0]
+Target: 1
+Result: 0.998251
+Recent Error: 0.00174893
+[1, 0]
+Target: 1
+Result: 0.99047
+Recent Error: 0.00952993
+[0, 1]
+Target: 1
+Result: 0.989648
+Recent Error: 0.0103516
+[1, 0]
+Target: 1
+Result: 0.990691
+Recent Error: 0.00930941
+[1, 0]
+Target: 1
+Result: 0.990802
+Recent Error: 0.00919793
+[0, 1]
+Target: 1
+Result: 0.989967
+Recent Error: 0.0100329
+[1, 0]
+Target: 1
+Result: 0.990997
+Recent Error: 0.00900279
+[0, 1]
+Target: 1
+Result: 0.990184
+Recent Error: 0.0098161
+[1, 1]
+Target: 0
+Result: 0.175741
+Recent Error: 0.175741
+[1, 0]
+Target: 1
+Result: 0.986184
+Recent Error: 0.0138163
+[1, 1]
+Target: 0
+Result: -0.237858
+Recent Error: 0.237858
+[0, 0]
+Target: 1
+Result: 0.998279
+Recent Error: 0.00172104
+[1, 1]
+Target: 0
+Result: 0.269164
+Recent Error: 0.269164
+[0, 0]
+Target: 1
+Result: 0.998173
+Recent Error: 0.00182696
+[1, 1]
+Target: 0
+Result: -0.328614
+Recent Error: 0.328614
+[1, 1]
+Target: 0
+Result: 0.223754
+Recent Error: 0.223754
+[1, 1]
+Target: 0
+Result: -0.178904
+Recent Error: 0.178904
+[1, 1]
+Target: 0
+Result: 0.119595
+Recent Error: 0.119595
+[0, 0]
+Target: 1
+Result: 0.998069
+Recent Error: 0.00193066
+[1, 0]
+Target: 1
+Result: 0.986006
+Recent Error: 0.0139942
+[0, 1]
+Target: 1
+Result: 0.984475
+Recent Error: 0.0155251
+[1, 0]
+Target: 1
+Result: 0.986441
+Recent Error: 0.0135593
+[1, 0]
+Target: 1
+Result: 0.986703
+Recent Error: 0.0132965
+[1, 1]
+Target: 0
+Result: -0.0884122
+Recent Error: 0.0884122
+[1, 0]
+Target: 1
+Result: 0.989317
+Recent Error: 0.0106835
+[1, 1]
+Target: 0
+Result: 0.113161
+Recent Error: 0.113161
+[0, 1]
+Target: 1
+Result: 0.984565
+Recent Error: 0.0154352
+[1, 1]
+Target: 0
+Result: -0.132401
+Recent Error: 0.132401
+[1, 1]
+Target: 0
+Result: 0.124786
+Recent Error: 0.124786
+[1, 0]
+Target: 1
+Result: 0.986525
+Recent Error: 0.013475
+[1, 1]
+Target: 0
+Result: -0.122005
+Recent Error: 0.122005
+[1, 0]
+Target: 1
+Result: 0.989554
+Recent Error: 0.0104457
+[0, 0]
+Target: 1
+Result: 0.998141
+Recent Error: 0.00185854
+[0, 0]
+Target: 1
+Result: 0.998144
+Recent Error: 0.0018557
+[1, 1]
+Target: 0
+Result: 0.147828
+Recent Error: 0.147828
+[0, 1]
+Target: 1
+Result: 0.98366
+Recent Error: 0.0163397
+[1, 0]
+Target: 1
+Result: 0.985428
+Recent Error: 0.0145721
+[1, 0]
+Target: 1
+Result: 0.985685
+Recent Error: 0.0143153
+[0, 0]
+Target: 1
+Result: 0.998131
+Recent Error: 0.0018691
+[1, 1]
+Target: 0
+Result: -0.158969
+Recent Error: 0.158969
+[1, 0]
+Target: 1
+Result: 0.990046
+Recent Error: 0.00995354
+[0, 1]
+Target: 1
+Result: 0.989156
+Recent Error: 0.0108436
+[0, 1]
+Target: 1
+Result: 0.989339
+Recent Error: 0.0106606
+[0, 1]
+Target: 1
+Result: 0.989492
+Recent Error: 0.0105081
+[1, 0]
+Target: 1
+Result: 0.990756
+Recent Error: 0.00924356
+[1, 0]
+Target: 1
+Result: 0.990861
+Recent Error: 0.00913912
+[1, 0]
+Target: 1
+Result: 0.990965
+Recent Error: 0.00903521
+[0, 1]
+Target: 1
+Result: 0.98989
+Recent Error: 0.0101104
+[0, 0]
+Target: 1
+Result: 0.998227
+Recent Error: 0.00177348
+[1, 1]
+Target: 0
+Result: 0.224589
+Recent Error: 0.224589
+[0, 0]
+Target: 1
+Result: 0.998148
+Recent Error: 0.00185164
+[1, 1]
+Target: 0
+Result: -0.264478
+Recent Error: 0.264478
+[0, 0]
+Target: 1
+Result: 0.998156
+Recent Error: 0.00184402
+[1, 0]
+Target: 1
+Result: 0.990852
+Recent Error: 0.00914791
+[1, 1]
+Target: 0
+Result: 0.245035
+Recent Error: 0.245035
+[1, 0]
+Target: 1
+Result: 0.984018
+Recent Error: 0.0159824
+[1, 0]
+Target: 1
+Result: 0.983339
+Recent Error: 0.0166608
+[1, 1]
+Target: 0
+Result: -0.256984
+Recent Error: 0.256984
+[1, 1]
+Target: 0
+Result: 0.179559
+Recent Error: 0.179559
+[0, 0]
+Target: 1
+Result: 0.998051
+Recent Error: 0.00194928
+[1, 1]
+Target: 0
+Result: -0.154027
+Recent Error: 0.154027
+[0, 0]
+Target: 1
+Result: 0.998063
+Recent Error: 0.00193651
+[1, 1]
+Target: 0
+Result: 0.149521
+Recent Error: 0.149521
+[1, 0]
+Target: 1
+Result: 0.98537
+Recent Error: 0.0146299
+[1, 1]
+Target: 0
+Result: -0.154443
+Recent Error: 0.154443
+[1, 1]
+Target: 0
+Result: 0.119422
+Recent Error: 0.119422
+[1, 0]
+Target: 1
+Result: 0.986231
+Recent Error: 0.013769
+[0, 1]
+Target: 1
+Result: 0.983511
+Recent Error: 0.0164887
+[1, 0]
+Target: 1
+Result: 0.986318
+Recent Error: 0.0136817
+[1, 0]
+Target: 1
+Result: 0.986576
+Recent Error: 0.013424
+[1, 0]
+Target: 1
+Result: 0.986831
+Recent Error: 0.0131695
+[0, 0]
+Target: 1
+Result: 0.998073
+Recent Error: 0.00192665
+[0, 1]
+Target: 1
+Result: 0.984527
+Recent Error: 0.0154731
+[0, 0]
+Target: 1
+Result: 0.998089
+Recent Error: 0.00191058
+[0, 0]
+Target: 1
+Result: 0.998093
+Recent Error: 0.00190738
+[0, 0]
+Target: 1
+Result: 0.998095
+Recent Error: 0.00190516
+[0, 1]
+Target: 1
+Result: 0.984946
+Recent Error: 0.0150537
+[0, 1]
+Target: 1
+Result: 0.985252
+Recent Error: 0.014748
+[0, 0]
+Target: 1
+Result: 0.998122
+Recent Error: 0.00187763
+[1, 1]
+Target: 0
+Result: -0.0397876
+Recent Error: 0.0397876
+[1, 1]
+Target: 0
+Result: 0.0369015
+Recent Error: 0.0369015
+[1, 0]
+Target: 1
+Result: 0.987884
+Recent Error: 0.0121164
+[1, 1]
+Target: 0
+Result: -0.0281438
+Recent Error: 0.0281438
+[1, 0]
+Target: 1
+Result: 0.988706
+Recent Error: 0.0112935
+[1, 0]
+Target: 1
+Result: 0.988929
+Recent Error: 0.0110711
+[0, 0]
+Target: 1
+Result: 0.99816
+Recent Error: 0.00184005
+[0, 0]
+Target: 1
+Result: 0.998163
+Recent Error: 0.0018373
+[1, 1]
+Target: 0
+Result: 0.0448879
+Recent Error: 0.0448879
+[1, 1]
+Target: 0
+Result: -0.0435262
+Recent Error: 0.0435262
+[1, 0]
+Target: 1
+Result: 0.988967
+Recent Error: 0.0110333
+[1, 1]
+Target: 0
+Result: 0.0448039
+Recent Error: 0.0448039
+[0, 1]
+Target: 1
+Result: 0.98573
+Recent Error: 0.0142704
+[0, 0]
+Target: 1
+Result: 0.998172
+Recent Error: 0.00182838
+[1, 0]
+Target: 1
+Result: 0.988122
+Recent Error: 0.0118783
+[0, 0]
+Target: 1
+Result: 0.998184
+Recent Error: 0.00181594
+[0, 1]
+Target: 1
+Result: 0.986055
+Recent Error: 0.0139454
+[1, 1]
+Target: 0
+Result: -0.0296996
+Recent Error: 0.0296996
+[1, 1]
+Target: 0
+Result: 0.0293344
+Recent Error: 0.0293344
+[0, 0]
+Target: 1
+Result: 0.998198
+Recent Error: 0.00180151
+[1, 0]
+Target: 1
+Result: 0.9885
+Recent Error: 0.0114998
+[0, 0]
+Target: 1
+Result: 0.998209
+Recent Error: 0.00179129
+[0, 1]
+Target: 1
+Result: 0.986516
+Recent Error: 0.0134843
+[0, 1]
+Target: 1
+Result: 0.98676
+Recent Error: 0.0132405
+[0, 0]
+Target: 1
+Result: 0.998233
+Recent Error: 0.00176709
+[0, 1]
+Target: 1
+Result: 0.987054
+Recent Error: 0.0129458
+[0, 0]
+Target: 1
+Result: 0.998246
+Recent Error: 0.00175432
+[0, 0]
+Target: 1
+Result: 0.998248
+Recent Error: 0.00175171
+[1, 1]
+Target: 0
+Result: 0.00121733
+Recent Error: 0.00121733
+[0, 0]
+Target: 1
+Result: 0.99825
+Recent Error: 0.00174989
+[1, 1]
+Target: 0
+Result: -0.0012926
+Recent Error: 0.0012926
+[1, 1]
+Target: 0
+Result: 0.00128411
+Recent Error: 0.00128411
+[0, 0]
+Target: 1
+Result: 0.998252
+Recent Error: 0.00174809
+[0, 0]
+Target: 1
+Result: 0.998253
+Recent Error: 0.00174651
+[1, 1]
+Target: 0
+Result: -0.000979958
+Recent Error: 0.000979958
+[0, 1]
+Target: 1
+Result: 0.987369
+Recent Error: 0.0126311
+[1, 1]
+Target: 0
+Result: 0.00780701
+Recent Error: 0.00780701
+[1, 1]
+Target: 0
+Result: -0.00721041
+Recent Error: 0.00721041
+[0, 1]
+Target: 1
+Result: 0.987562
+Recent Error: 0.0124383
+[1, 0]
+Target: 1
+Result: 0.989398
+Recent Error: 0.0106017
+[1, 1]
+Target: 0
+Result: 0.0196757
+Recent Error: 0.0196757
+[1, 1]
+Target: 0
+Result: -0.0195363
+Recent Error: 0.0195363
+[1, 1]
+Target: 0
+Result: 0.0157576
+Recent Error: 0.0157576
+[1, 1]
+Target: 0
+Result: -0.0125952
+Recent Error: 0.0125952
+[0, 0]
+Target: 1
+Result: 0.998283
+Recent Error: 0.00171669
+[1, 0]
+Target: 1
+Result: 0.989476
+Recent Error: 0.0105242
+[1, 0]
+Target: 1
+Result: 0.989616
+Recent Error: 0.010384
+[1, 1]
+Target: 0
+Result: 0.0236157
+Recent Error: 0.0236157
+[1, 0]
+Target: 1
+Result: 0.989208
+Recent Error: 0.0107921
+[1, 0]
+Target: 1
+Result: 0.989297
+Recent Error: 0.0107027
+[1, 0]
+Target: 1
+Result: 0.98945
+Recent Error: 0.0105503
+[1, 0]
+Target: 1
+Result: 0.989604
+Recent Error: 0.0103963
+[1, 0]
+Target: 1
+Result: 0.989753
+Recent Error: 0.0102467
+[1, 1]
+Target: 0
+Result: -0.000261609
+Recent Error: 0.000261609
+[0, 0]
+Target: 1
+Result: 0.99834
+Recent Error: 0.00165975
+[1, 1]
+Target: 0
+Result: 0.00110326
+Recent Error: 0.00110326
+[0, 0]
+Target: 1
+Result: 0.998342
+Recent Error: 0.00165827
+[1, 1]
+Target: 0
+Result: -0.00121496
+Recent Error: 0.00121496
+[1, 0]
+Target: 1
+Result: 0.989944
+Recent Error: 0.0100561
+[0, 0]
+Target: 1
+Result: 0.998351
+Recent Error: 0.00164915
+[0, 0]
+Target: 1
+Result: 0.998353
+Recent Error: 0.001647
+[0, 1]
+Target: 1
+Result: 0.988076
+Recent Error: 0.0119236
+[0, 1]
+Target: 1
+Result: 0.988266
+Recent Error: 0.0117342
+[1, 1]
+Target: 0
+Result: 0.020826
+Recent Error: 0.020826
+[1, 0]
+Target: 1
+Result: 0.989849
+Recent Error: 0.0101515
+[0, 0]
+Target: 1
+Result: 0.998376
+Recent Error: 0.00162387
+[0, 1]
+Target: 1
+Result: 0.98794
+Recent Error: 0.0120599
+[0, 1]
+Target: 1
+Result: 0.988137
+Recent Error: 0.011863
+[0, 0]
+Target: 1
+Result: 0.998396
+Recent Error: 0.00160415
+[0, 0]
+Target: 1
+Result: 0.998398
+Recent Error: 0.0016019
+[0, 1]
+Target: 1
+Result: 0.988392
+Recent Error: 0.0116082
+[1, 0]
+Target: 1
+Result: 0.990295
+Recent Error: 0.00970486
+[1, 0]
+Target: 1
+Result: 0.990422
+Recent Error: 0.0095779
+[0, 1]
+Target: 1
+Result: 0.988789
+Recent Error: 0.011211
+[1, 0]
+Target: 1
+Result: 0.99065
+Recent Error: 0.00934981
+[1, 1]
+Target: 0
+Result: 0.0235708
+Recent Error: 0.0235708
+[0, 1]
+Target: 1
+Result: 0.988419
+Recent Error: 0.0115808
+[1, 1]
+Target: 0
+Result: -0.0242564
+Recent Error: 0.0242564
+[0, 0]
+Target: 1
+Result: 0.998447
+Recent Error: 0.00155328
+[0, 0]
+Target: 1
+Result: 0.998448
+Recent Error: 0.00155156
+[0, 0]
+Target: 1
+Result: 0.99845
+Recent Error: 0.00155012
+[0, 1]
+Target: 1
+Result: 0.989311
+Recent Error: 0.0106889
+[0, 1]
+Target: 1
+Result: 0.989462
+Recent Error: 0.0105383
+[0, 0]
+Target: 1
+Result: 0.998466
+Recent Error: 0.00153371
+[1, 1]
+Target: 0
+Result: 0.0458171
+Recent Error: 0.0458171
+[0, 1]
+Target: 1
+Result: 0.988384
+Recent Error: 0.011616
+[0, 1]
+Target: 1
+Result: 0.988433
+Recent Error: 0.0115668
+[0, 0]
+Target: 1
+Result: 0.998475
+Recent Error: 0.00152536
+[0, 0]
+Target: 1
+Result: 0.998477
+Recent Error: 0.00152331
+[1, 1]
+Target: 0
+Result: -0.0481828
+Recent Error: 0.0481828
+[0, 0]
+Target: 1
+Result: 0.998485
+Recent Error: 0.00151482
+[0, 1]
+Target: 1
+Result: 0.990041
+Recent Error: 0.00995886
+[1, 1]
+Target: 0
+Result: 0.070029
+Recent Error: 0.070029
+[0, 1]
+Target: 1
+Result: 0.988289
+Recent Error: 0.0117109
+[1, 0]
+Target: 1
+Result: 0.98978
+Recent Error: 0.0102197
+[1, 0]
+Target: 1
+Result: 0.989911
+Recent Error: 0.0100888
+[1, 0]
+Target: 1
+Result: 0.990058
+Recent Error: 0.0099419
+[1, 1]
+Target: 0
+Result: -0.0718564
+Recent Error: 0.0718564
+[1, 1]
+Target: 0
+Result: 0.0797974
+Recent Error: 0.0797974
+[1, 0]
+Target: 1
+Result: 0.990097
+Recent Error: 0.00990274
+[0, 1]
+Target: 1
+Result: 0.988345
+Recent Error: 0.0116545
+[1, 1]
+Target: 0
+Result: -0.0823078
+Recent Error: 0.0823078
+[0, 1]
+Target: 1
+Result: 0.990593
+Recent Error: 0.00940689
+[1, 0]
+Target: 1
+Result: 0.99203
+Recent Error: 0.00796964
+[1, 0]
+Target: 1
+Result: 0.992126
+Recent Error: 0.00787406
+[1, 0]
+Target: 1
+Result: 0.992209
+Recent Error: 0.00779114
+[0, 0]
+Target: 1
+Result: 0.998551
+Recent Error: 0.00144946
+[1, 1]
+Target: 0
+Result: 0.129864
+Recent Error: 0.129864
+[1, 1]
+Target: 0
+Result: -0.149685
+Recent Error: 0.149685
+[0, 1]
+Target: 1
+Result: 0.990912
+Recent Error: 0.00908773
+[1, 0]
+Target: 1
+Result: 0.9924
+Recent Error: 0.00759991
+[1, 0]
+Target: 1
+Result: 0.992493
+Recent Error: 0.00750699
+[0, 0]
+Target: 1
+Result: 0.99855
+Recent Error: 0.00144956
+[1, 1]
+Target: 0
+Result: 0.169082
+Recent Error: 0.169082
+[1, 0]
+Target: 1
+Result: 0.98879
+Recent Error: 0.0112104
+[1, 0]
+Target: 1
+Result: 0.988455
+Recent Error: 0.0115451
+[1, 0]
+Target: 1
+Result: 0.98861
+Recent Error: 0.0113899
+[1, 0]
+Target: 1
+Result: 0.988809
+Recent Error: 0.0111915
+[0, 0]
+Target: 1
+Result: 0.998538
+Recent Error: 0.00146194
+[0, 1]
+Target: 1
+Result: 0.986662
+Recent Error: 0.0133377
+[0, 0]
+Target: 1
+Result: 0.998548
+Recent Error: 0.00145154
+[1, 0]
+Target: 1
+Result: 0.989197
+Recent Error: 0.010803
+[0, 0]
+Target: 1
+Result: 0.998557
+Recent Error: 0.00144257
+[1, 1]
+Target: 0
+Result: -0.186688
+Recent Error: 0.186688
+[1, 1]
+Target: 0
+Result: 0.181916
+Recent Error: 0.181916
+[0, 1]
+Target: 1
+Result: 0.987093
+Recent Error: 0.0129067
+[1, 1]
+Target: 0
+Result: -0.192696
+Recent Error: 0.192696
+[1, 1]
+Target: 0
+Result: 0.176698
+Recent Error: 0.176698
+[1, 1]
+Target: 0
+Result: -0.156024
+Recent Error: 0.156024
+[0, 1]
+Target: 1
+Result: 0.990538
+Recent Error: 0.00946234
+[1, 1]
+Target: 0
+Result: 0.147093
+Recent Error: 0.147093
+[1, 1]
+Target: 0
+Result: -0.153803
+Recent Error: 0.153803
+[0, 0]
+Target: 1
+Result: 0.998491
+Recent Error: 0.00150856
+[1, 0]
+Target: 1
+Result: 0.992018
+Recent Error: 0.00798209
+[0, 1]
+Target: 1
+Result: 0.990768
+Recent Error: 0.00923201
+[1, 0]
+Target: 1
+Result: 0.992181
+Recent Error: 0.00781891
+[1, 1]
+Target: 0
+Result: 0.156506
+Recent Error: 0.156506
+[0, 1]
+Target: 1
+Result: 0.98657
+Recent Error: 0.0134305
+[1, 1]
+Target: 0
+Result: -0.186101
+Recent Error: 0.186101
+[1, 1]
+Target: 0
+Result: 0.15978
+Recent Error: 0.15978
+[0, 1]
+Target: 1
+Result: 0.98695
+Recent Error: 0.0130502
+[0, 0]
+Target: 1
+Result: 0.998461
+Recent Error: 0.00153871
+[1, 1]
+Target: 0
+Result: -0.152847
+Recent Error: 0.152847
+[1, 0]
+Target: 1
+Result: 0.991802
+Recent Error: 0.00819769
+[0, 0]
+Target: 1
+Result: 0.998479
+Recent Error: 0.00152129
+[1, 0]
+Target: 1
+Result: 0.992152
+Recent Error: 0.00784786
+[1, 0]
+Target: 1
+Result: 0.992226
+Recent Error: 0.00777413
+[1, 1]
+Target: 0
+Result: 0.181919
+Recent Error: 0.181919
+[0, 0]
+Target: 1
+Result: 0.99845
+Recent Error: 0.00154959
+[1, 0]
+Target: 1
+Result: 0.987672
+Recent Error: 0.0123277
+[1, 1]
+Target: 0
+Result: -0.210686
+Recent Error: 0.210686
+[0, 1]
+Target: 1
+Result: 0.99066
+Recent Error: 0.00933965
+[0, 0]
+Target: 1
+Result: 0.998468
+Recent Error: 0.00153188
+[0, 1]
+Target: 1
+Result: 0.991185
+Recent Error: 0.008815
+[1, 1]
+Target: 0
+Result: 0.220536
+Recent Error: 0.220536
+[0, 0]
+Target: 1
+Result: 0.998423
+Recent Error: 0.00157721
+[1, 0]
+Target: 1
+Result: 0.986748
+Recent Error: 0.0132523
+[0, 0]
+Target: 1
+Result: 0.998427
+Recent Error: 0.00157328
+[0, 1]
+Target: 1
+Result: 0.984228
+Recent Error: 0.015772
+[0, 0]
+Target: 1
+Result: 0.998439
+Recent Error: 0.00156058
+[1, 0]
+Target: 1
+Result: 0.987184
+Recent Error: 0.0128159
+[0, 1]
+Target: 1
+Result: 0.984851
+Recent Error: 0.0151486
+[0, 1]
+Target: 1
+Result: 0.985215
+Recent Error: 0.0147849
+[0, 1]
+Target: 1
+Result: 0.985577
+Recent Error: 0.014423
+[1, 0]
+Target: 1
+Result: 0.987993
+Recent Error: 0.0120074
+[1, 1]
+Target: 0
+Result: -0.19768
+Recent Error: 0.19768
+[1, 0]
+Target: 1
+Result: 0.992113
+Recent Error: 0.00788703
+[0, 1]
+Target: 1
+Result: 0.991333
+Recent Error: 0.00866742
+[0, 0]
+Target: 1
+Result: 0.998509
+Recent Error: 0.00149113
+[0, 0]
+Target: 1
+Result: 0.998511
+Recent Error: 0.00148937
+[0, 1]
+Target: 1
+Result: 0.99149
+Recent Error: 0.00851047
+[0, 1]
+Target: 1
+Result: 0.991576
+Recent Error: 0.00842418
+[1, 0]
+Target: 1
+Result: 0.99267
+Recent Error: 0.0073299
+[1, 1]
+Target: 0
+Result: 0.224781
+Recent Error: 0.224781
+[1, 1]
+Target: 0
+Result: -0.21226
+Recent Error: 0.21226
+[0, 1]
+Target: 1
+Result: 0.990337
+Recent Error: 0.00966322
+[1, 0]
+Target: 1
+Result: 0.991918
+Recent Error: 0.00808186
+[0, 0]
+Target: 1
+Result: 0.998487
+Recent Error: 0.00151293
+[0, 0]
+Target: 1
+Result: 0.998489
+Recent Error: 0.00151115
+[1, 1]
+Target: 0
+Result: 0.165051
+Recent Error: 0.165051
+[0, 0]
+Target: 1
+Result: 0.998457
+Recent Error: 0.00154302
+[0, 1]
+Target: 1
+Result: 0.985848
+Recent Error: 0.0141519
+[0, 0]
+Target: 1
+Result: 0.998464
+Recent Error: 0.00153646
+[0, 1]
+Target: 1
+Result: 0.986117
+Recent Error: 0.0138829
+[1, 1]
+Target: 0
+Result: -0.174461
+Recent Error: 0.174461
+[1, 1]
+Target: 0
+Result: 0.140029
+Recent Error: 0.140029
+[0, 1]
+Target: 1
+Result: 0.987433
+Recent Error: 0.0125667
+[0, 1]
+Target: 1
+Result: 0.987255
+Recent Error: 0.0127447
+[1, 1]
+Target: 0
+Result: -0.113763
+Recent Error: 0.113763
+[1, 0]
+Target: 1
+Result: 0.991287
+Recent Error: 0.00871346
+[0, 1]
+Target: 1
+Result: 0.990559
+Recent Error: 0.0094407
+[1, 0]
+Target: 1
+Result: 0.991659
+Recent Error: 0.00834101
+[1, 1]
+Target: 0
+Result: 0.135905
+Recent Error: 0.135905
+[0, 1]
+Target: 1
+Result: 0.987222
+Recent Error: 0.0127778
+[0, 1]
+Target: 1
+Result: 0.987007
+Recent Error: 0.012993
+[1, 0]
+Target: 1
+Result: 0.988605
+Recent Error: 0.0113951
+[1, 1]
+Target: 0
+Result: -0.136178
+Recent Error: 0.136178
+[0, 0]
+Target: 1
+Result: 0.998501
+Recent Error: 0.00149894
+[0, 0]
+Target: 1
+Result: 0.998503
+Recent Error: 0.00149725
+[1, 1]
+Target: 0
+Result: 0.143568
+Recent Error: 0.143568
+[1, 0]
+Target: 1
+Result: 0.988651
+Recent Error: 0.0113492
+[0, 1]
+Target: 1
+Result: 0.986868
+Recent Error: 0.0131323
+[1, 0]
+Target: 1
+Result: 0.988536
+Recent Error: 0.0114643
+[1, 0]
+Target: 1
+Result: 0.988726
+Recent Error: 0.0112744
+[1, 0]
+Target: 1
+Result: 0.988916
+Recent Error: 0.0110837
+[0, 1]
+Target: 1
+Result: 0.987519
+Recent Error: 0.0124814
+[1, 0]
+Target: 1
+Result: 0.98924
+Recent Error: 0.0107601
+[1, 0]
+Target: 1
+Result: 0.989409
+Recent Error: 0.0105913
+[1, 1]
+Target: 0
+Result: -0.115254
+Recent Error: 0.115254
+[0, 1]
+Target: 1
+Result: 0.99074
+Recent Error: 0.00925996
+[0, 1]
+Target: 1
+Result: 0.991064
+Recent Error: 0.0089357
+[0, 0]
+Target: 1
+Result: 0.998558
+Recent Error: 0.00144196
+[0, 0]
+Target: 1
+Result: 0.99856
+Recent Error: 0.00144026
+[0, 0]
+Target: 1
+Result: 0.998561
+Recent Error: 0.00143901
+[0, 1]
+Target: 1
+Result: 0.991232
+Recent Error: 0.00876755
+[1, 0]
+Target: 1
+Result: 0.992247
+Recent Error: 0.00775338
+[1, 1]
+Target: 0
+Result: 0.146071
+Recent Error: 0.146071
+[1, 0]
+Target: 1
+Result: 0.989248
+Recent Error: 0.0107524
+[1, 0]
+Target: 1
+Result: 0.989012
+Recent Error: 0.0109878
+[0, 0]
+Target: 1
+Result: 0.99856
+Recent Error: 0.0014405
+[0, 0]
+Target: 1
+Result: 0.998561
+Recent Error: 0.00143869
+[0, 1]
+Target: 1
+Result: 0.98751
+Recent Error: 0.0124896
+[0, 1]
+Target: 1
+Result: 0.987736
+Recent Error: 0.0122638
+[0, 0]
+Target: 1
+Result: 0.998578
+Recent Error: 0.00142167
+[1, 0]
+Target: 1
+Result: 0.989467
+Recent Error: 0.0105329
+[1, 1]
+Target: 0
+Result: -0.140951
+Recent Error: 0.140951
+[1, 1]
+Target: 0
+Result: 0.123402
+Recent Error: 0.123402
+[1, 1]
+Target: 0
+Result: -0.0957253
+Recent Error: 0.0957253
+[1, 1]
+Target: 0
+Result: 0.0642274
+Recent Error: 0.0642274
+[0, 0]
+Target: 1
+Result: 0.998569
+Recent Error: 0.00143134
+[0, 1]
+Target: 1
+Result: 0.989114
+Recent Error: 0.010886
+[0, 1]
+Target: 1
+Result: 0.989261
+Recent Error: 0.0107395
+[1, 1]
+Target: 0
+Result: -0.0475468
+Recent Error: 0.0475468
+[1, 0]
+Target: 1
+Result: 0.991549
+Recent Error: 0.00845076
+[0, 1]
+Target: 1
+Result: 0.990705
+Recent Error: 0.00929503
+[1, 0]
+Target: 1
+Result: 0.991801
+Recent Error: 0.00819852
+[0, 1]
+Target: 1
+Result: 0.990906
+Recent Error: 0.00909441
+[0, 0]
+Target: 1
+Result: 0.99861
+Recent Error: 0.00138992
+[0, 0]
+Target: 1
+Result: 0.998612
+Recent Error: 0.00138832
+[0, 1]
+Target: 1
+Result: 0.991046
+Recent Error: 0.00895402
+[0, 0]
+Target: 1
+Result: 0.998618
+Recent Error: 0.00138174
+[1, 1]
+Target: 0
+Result: 0.0808842
+Recent Error: 0.0808842
+[1, 0]
+Target: 1
+Result: 0.990429
+Recent Error: 0.00957073
+[0, 1]
+Target: 1
+Result: 0.989142
+Recent Error: 0.0108584
+[0, 0]
+Target: 1
+Result: 0.99862
+Recent Error: 0.00137951
+[1, 0]
+Target: 1
+Result: 0.990467
+Recent Error: 0.00953306
+[0, 1]
+Target: 1
+Result: 0.989409
+Recent Error: 0.0105913
+[0, 1]
+Target: 1
+Result: 0.989572
+Recent Error: 0.010428
+[0, 1]
+Target: 1
+Result: 0.989737
+Recent Error: 0.0102632
+[1, 0]
+Target: 1
+Result: 0.990875
+Recent Error: 0.00912537
+[1, 0]
+Target: 1
+Result: 0.990993
+Recent Error: 0.00900742
+[1, 1]
+Target: 0
+Result: -0.0549554
+Recent Error: 0.0549554
+[1, 1]
+Target: 0
+Result: 0.0548186
+Recent Error: 0.0548186
+[1, 0]
+Target: 1
+Result: 0.991189
+Recent Error: 0.00881088
+[1, 0]
+Target: 1
+Result: 0.991187
+Recent Error: 0.00881282
+[1, 1]
+Target: 0
+Result: -0.0474465
+Recent Error: 0.0474465
+[0, 0]
+Target: 1
+Result: 0.998672
+Recent Error: 0.00132811
+[0, 1]
+Target: 1
+Result: 0.991329
+Recent Error: 0.00867065
+[1, 0]
+Target: 1
+Result: 0.992318
+Recent Error: 0.00768227
+[0, 1]
+Target: 1
+Result: 0.991501
+Recent Error: 0.00849936
+[1, 1]
+Target: 0
+Result: 0.0721849
+Recent Error: 0.0721849
+[1, 1]
+Target: 0
+Result: -0.0750097
+Recent Error: 0.0750097
+[0, 1]
+Target: 1
+Result: 0.991438
+Recent Error: 0.00856155
+[0, 1]
+Target: 1
+Result: 0.991657
+Recent Error: 0.00834271
+[1, 1]
+Target: 0
+Result: 0.0829822
+Recent Error: 0.0829822
+[1, 0]
+Target: 1
+Result: 0.99096
+Recent Error: 0.00904006
+[0, 0]
+Target: 1
+Result: 0.998688
+Recent Error: 0.00131215
+[1, 1]
+Target: 0
+Result: -0.0991648
+Recent Error: 0.0991648
+[1, 0]
+Target: 1
+Result: 0.99265
+Recent Error: 0.00734996
+[1, 0]
+Target: 1
+Result: 0.992861
+Recent Error: 0.00713915
+[0, 1]
+Target: 1
+Result: 0.992142
+Recent Error: 0.00785773
+[1, 0]
+Target: 1
+Result: 0.992994
+Recent Error: 0.00700556
+[1, 1]
+Target: 0
+Result: 0.133636
+Recent Error: 0.133636
+[0, 0]
+Target: 1
+Result: 0.998693
+Recent Error: 0.00130692
+[0, 0]
+Target: 1
+Result: 0.998692
+Recent Error: 0.00130808
+[1, 1]
+Target: 0
+Result: -0.16613
+Recent Error: 0.16613
+[0, 1]
+Target: 1
+Result: 0.992249
+Recent Error: 0.00775093
+[0, 0]
+Target: 1
+Result: 0.9987
+Recent Error: 0.00129999
+[0, 0]
+Target: 1
+Result: 0.998701
+Recent Error: 0.00129866
+[1, 1]
+Target: 0
+Result: 0.186304
+Recent Error: 0.186304
+[1, 1]
+Target: 0
+Result: -0.184387
+Recent Error: 0.184387
+[1, 1]
+Target: 0
+Result: 0.114225
+Recent Error: 0.114225
+[1, 0]
+Target: 1
+Result: 0.990705
+Recent Error: 0.00929529
+[1, 1]
+Target: 0
+Result: -0.0984783
+Recent Error: 0.0984783
+[1, 0]
+Target: 1
+Result: 0.992369
+Recent Error: 0.00763065
+[1, 1]
+Target: 0
+Result: 0.11082
+Recent Error: 0.11082
+[1, 1]
+Target: 0
+Result: -0.106791
+Recent Error: 0.106791
+[0, 1]
+Target: 1
+Result: 0.991269
+Recent Error: 0.0087314
+[0, 0]
+Target: 1
+Result: 0.99866
+Recent Error: 0.00134012
+[1, 0]
+Target: 1
+Result: 0.992438
+Recent Error: 0.00756151
+[0, 1]
+Target: 1
+Result: 0.991625
+Recent Error: 0.00837492
+[1, 0]
+Target: 1
+Result: 0.992567
+Recent Error: 0.00743301
+[0, 1]
+Target: 1
+Result: 0.991777
+Recent Error: 0.00822289
+[1, 0]
+Target: 1
+Result: 0.992694
+Recent Error: 0.0073058
+[1, 0]
+Target: 1
+Result: 0.992763
+Recent Error: 0.00723719
+[0, 1]
+Target: 1
+Result: 0.991977
+Recent Error: 0.00802286
+[1, 1]
+Target: 0
+Result: 0.12798
+Recent Error: 0.12798
+[0, 1]
+Target: 1
+Result: 0.989186
+Recent Error: 0.0108142
+[0, 1]
+Target: 1
+Result: 0.988994
+Recent Error: 0.0110062
+[0, 1]
+Target: 1
+Result: 0.989148
+Recent Error: 0.0108524
+[0, 1]
+Target: 1
+Result: 0.98933
+Recent Error: 0.0106697
+[0, 1]
+Target: 1
+Result: 0.989509
+Recent Error: 0.0104906
+[0, 0]
+Target: 1
+Result: 0.998708
+Recent Error: 0.00129157
+[0, 1]
+Target: 1
+Result: 0.989708
+Recent Error: 0.0102921
+[0, 0]
+Target: 1
+Result: 0.998716
+Recent Error: 0.00128432
+[1, 1]
+Target: 0
+Result: -0.117853
+Recent Error: 0.117853
+[1, 1]
+Target: 0
+Result: 0.108238
+Recent Error: 0.108238
+[1, 1]
+Target: 0
+Result: -0.0873394
+Recent Error: 0.0873394
+[0, 0]
+Target: 1
+Result: 0.99871
+Recent Error: 0.00129024
+[1, 0]
+Target: 1
+Result: 0.992491
+Recent Error: 0.00750874
+[1, 1]
+Target: 0
+Result: 0.0824427
+Recent Error: 0.0824427
+[1, 0]
+Target: 1
+Result: 0.991024
+Recent Error: 0.00897639
+[1, 1]
+Target: 0
+Result: -0.0939131
+Recent Error: 0.0939131
+[1, 1]
+Target: 0
+Result: 0.0858978
+Recent Error: 0.0858978
+[1, 1]
+Target: 0
+Result: -0.0683974
+Recent Error: 0.0683974
+[0, 1]
+Target: 1
+Result: 0.991545
+Recent Error: 0.0084547
+[1, 0]
+Target: 1
+Result: 0.992413
+Recent Error: 0.00758717
+[0, 1]
+Target: 1
+Result: 0.991818
+Recent Error: 0.00818247
+[1, 1]
+Target: 0
+Result: 0.0750845
+Recent Error: 0.0750845
+[0, 1]
+Target: 1
+Result: 0.990332
+Recent Error: 0.00966783
+[1, 0]
+Target: 1
+Result: 0.991074
+Recent Error: 0.00892568
+[0, 0]
+Target: 1
+Result: 0.998724
+Recent Error: 0.00127621
+[1, 0]
+Target: 1
+Result: 0.991189
+Recent Error: 0.00881121
+[1, 1]
+Target: 0
+Result: -0.0765482
+Recent Error: 0.0765482
+[0, 0]
+Target: 1
+Result: 0.998734
+Recent Error: 0.00126624
+[1, 1]
+Target: 0
+Result: 0.0886241
+Recent Error: 0.0886241
+[0, 0]
+Target: 1
+Result: 0.998725
+Recent Error: 0.00127478
+[0, 1]
+Target: 1
+Result: 0.990047
+Recent Error: 0.00995303
+[0, 1]
+Target: 1
+Result: 0.990164
+Recent Error: 0.0098362
+[0, 1]
+Target: 1
+Result: 0.990309
+Recent Error: 0.00969053
+[1, 0]
+Target: 1
+Result: 0.991177
+Recent Error: 0.00882259
+[0, 0]
+Target: 1
+Result: 0.998747
+Recent Error: 0.0012528
+[0, 0]
+Target: 1
+Result: 0.998749
+Recent Error: 0.00125145
+[1, 1]
+Target: 0
+Result: -0.0854729
+Recent Error: 0.0854729
+[1, 0]
+Target: 1
+Result: 0.992792
+Recent Error: 0.00720805
+[1, 0]
+Target: 1
+Result: 0.99298
+Recent Error: 0.00701979
+[0, 1]
+Target: 1
+Result: 0.992469
+Recent Error: 0.00753126
+[0, 1]
+Target: 1
+Result: 0.992545
+Recent Error: 0.00745492
+[1, 1]
+Target: 0
+Result: 0.116352
+Recent Error: 0.116352
+[0, 0]
+Target: 1
+Result: 0.998756
+Recent Error: 0.00124354
+[0, 0]
+Target: 1
+Result: 0.998756
+Recent Error: 0.00124416
+[1, 0]
+Target: 1
+Result: 0.990738
+Recent Error: 0.00926185
+[0, 1]
+Target: 1
+Result: 0.990004
+Recent Error: 0.00999584
+[1, 0]
+Target: 1
+Result: 0.990949
+Recent Error: 0.00905118
+[1, 1]
+Target: 0
+Result: -0.128414
+Recent Error: 0.128414
+[1, 0]
+Target: 1
+Result: 0.993216
+Recent Error: 0.00678426
+[1, 1]
+Target: 0
+Result: 0.147589
+Recent Error: 0.147589
+[0, 1]
+Target: 1
+Result: 0.989861
+Recent Error: 0.0101387
+[0, 1]
+Target: 1
+Result: 0.989617
+Recent Error: 0.0103825
+[1, 1]
+Target: 0
+Result: -0.165996
+Recent Error: 0.165996
+[1, 0]
+Target: 1
+Result: 0.993319
+Recent Error: 0.00668071
+[0, 1]
+Target: 1
+Result: 0.993098
+Recent Error: 0.00690186
+[1, 0]
+Target: 1
+Result: 0.993636
+Recent Error: 0.00636379
+[0, 1]
+Target: 1
+Result: 0.993223
+Recent Error: 0.00677689
+[0, 1]
+Target: 1
+Result: 0.993282
+Recent Error: 0.00671829
+[1, 0]
+Target: 1
+Result: 0.993765
+Recent Error: 0.00623518
+[1, 0]
+Target: 1
+Result: 0.993813
+Recent Error: 0.0061869
+[0, 1]
+Target: 1
+Result: 0.993416
+Recent Error: 0.00658408
+[0, 1]
+Target: 1
+Result: 0.993471
+Recent Error: 0.00652947
+[0, 1]
+Target: 1
+Result: 0.993526
+Recent Error: 0.006474
+[0, 1]
+Target: 1
+Result: 0.993581
+Recent Error: 0.0064194
+[1, 1]
+Target: 0
+Result: 0.218074
+Recent Error: 0.218074
+[1, 1]
+Target: 0
+Result: -0.212022
+Recent Error: 0.212022
+[0, 1]
+Target: 1
+Result: 0.992692
+Recent Error: 0.00730775
+[0, 1]
+Target: 1
+Result: 0.993007
+Recent Error: 0.00699261
+[0, 0]
+Target: 1
+Result: 0.998779
+Recent Error: 0.00122104
+[1, 0]
+Target: 1
+Result: 0.993475
+Recent Error: 0.00652547
+[1, 1]
+Target: 0
+Result: 0.171939
+Recent Error: 0.171939
+[1, 0]
+Target: 1
+Result: 0.990329
+Recent Error: 0.00967117
+[0, 1]
+Target: 1
+Result: 0.989277
+Recent Error: 0.0107226
+[1, 1]
+Target: 0
+Result: -0.18993
+Recent Error: 0.18993
+[1, 0]
+Target: 1
+Result: 0.993278
+Recent Error: 0.00672164
+[1, 1]
+Target: 0
+Result: 0.189668
+Recent Error: 0.189668
+[1, 1]
+Target: 0
+Result: -0.173453
+Recent Error: 0.173453
+[0, 1]
+Target: 1
+Result: 0.992262
+Recent Error: 0.00773786
+[0, 0]
+Target: 1
+Result: 0.998745
+Recent Error: 0.00125538
+[1, 1]
+Target: 0
+Result: 0.134252
+Recent Error: 0.134252
+[1, 0]
+Target: 1
+Result: 0.990487
+Recent Error: 0.00951267
+[0, 1]
+Target: 1
+Result: 0.989596
+Recent Error: 0.0104042
